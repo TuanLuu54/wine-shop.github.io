@@ -1,0 +1,30 @@
+{
+  "name": "wine-shop",
+  "version": "1.0.0",
+  "description": "Wines a Hotel and Restaurants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tuanlv5490@gitlab.com/tuanlv5490/wine-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/tuanlv5490/wine-shop/issues"
+  },
+  "homepage": "https://gitlab.com/tuanlv5490/wine-shop#README",
+  "devDependencies": {
+    "airkit": "^0.2.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "merge-stream": "^1.0.1",
+    "require-dir": "^0.3.2"
+  }
+}
