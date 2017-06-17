@@ -3,6 +3,9 @@ grow_version: ">=0.0.68"
 home: /content/pages/index.yaml
 root: ""
 
+meta:
+  icon: "/assets/static/images/icon/wine.ico"
+
 static_dirs:
 - static_dir: /dist/
   serve_at: "/assets/static/"
