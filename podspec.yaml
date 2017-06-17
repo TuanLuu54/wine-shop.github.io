@@ -1,0 +1,13 @@
+title@: Wines a Hotel and Restaurants
+grow_version: ">=0.0.68"
+home: /content/pages/index.yaml
+root: ""
+
+static_dirs:
+- static_dir: /dist/
+  serve_at: "/assets/static/"
+- static_dir: /source/images/
+  serve_at: "/assets/static/images/"
+
+preprocessors:
+- kind: gulp
