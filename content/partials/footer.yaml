@@ -1,6 +1,5 @@
 columns:
-- column: 1
-  title: Extras
+- heading: Extras
   cta:
     - text: Ut rutrum neque a mollis laoreet
       url: '#'
@@ -10,8 +9,7 @@ columns:
       url: '#'
     - text: Ut rutrum neque a mollis
       url: '#'
-- column: 2
-  title: Useful Info
+- heading: Useful Info
   cta:
     - text: Hendrerit quam
       url: '#'
@@ -23,8 +21,7 @@ columns:
       url: '#'
     - text: Amet consectetur
       url: '#'
-- column: 3
-  title: Social
+- heading: Social
   cta:
     - socials:
         - icon: fa fa-facebook
@@ -33,8 +30,7 @@ columns:
           url: 'https://twitter.com/'
         - icon: fa fa-linkedin
           url: 'https://linkedin.com/'
-- column: 4
-  title: Contact Us
+- heading: Contact Us
   cta:
     - text: Pelleesque conquat dignissim lacus quis altrcies.
     - text: Tel.800-255-9999
