@@ -1,0 +1,7 @@
+$title: Contact
+$titles:
+  nav@: Contact
+
+partials:
+- partial: hero
+  title: Contact hero

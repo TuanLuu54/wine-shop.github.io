@@ -1,0 +1,7 @@
+$title: About
+$titles:
+  nav@: About
+
+partials:
+- partial: hero
+  title: About hero

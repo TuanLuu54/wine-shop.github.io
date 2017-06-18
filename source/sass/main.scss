@@ -1,2 +1,9 @@
 @import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
 @import "bower_components/components-font-awesome/scss/font-awesome.scss";
+
+@import "vars/colors";
+@import "global";
+
+@import "partials/header";
+@import "partials/footer";
+@import "partials/hero";
