@@ -1,0 +1,7 @@
+$title: Wines
+$titles:
+  nav@: Wines
+
+partials:
+- partial: hero
+  title: Wines hero

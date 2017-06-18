@@ -1,0 +1,37 @@
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <ul class="footer__container">
+        {% for column in partial.columns %}
+          <li class="col-sm-3">
+            <h3 class="footer__heading">{{column.title}}</h3>
+            <ul class="footer__items">
+              {% for item in column.cta %}
+              <li class="footer__item">
+                {% if item.url %}
+                <a href="{{item.url}}" class="footer__item-link">
+                  {{item.text}}
+                </a>
+                {% elif item.socials %}
+                   {% for social in item.socials %}
+                    <a href="{{social.url}}" class="footer__item-social">
+                      <i class="{{social.icon}}" aria-hidden="true"></i>
+                    </a>
+                   {% endfor %}
+                {% else %}
+                  {{item.text|safe}}
+                {% endif %}
+              </li>
+              {% endfor %}
+            </ul>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="row footer__copyright">
+      <div class="col-sm-12">
+        <p>© 2017 Wines. All Rights Reserved </p>
+      </div>
+    </div>
+  </div>
+</div>

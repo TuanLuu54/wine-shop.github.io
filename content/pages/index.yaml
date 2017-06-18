@@ -1,0 +1,8 @@
+$title: Welcome to Wines
+$path: /{root}/
+$titles:
+  nav@: Home
+
+partials:
+- partial: hero
+  title: Welcome to the wines
