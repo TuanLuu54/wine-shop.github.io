@@ -1,3 +1,15 @@
 .hero {
   background-color: #eae089;
+
+  .hero__container {
+    margin: 50px auto 100px;
+    text-align: center;
+  }
+
+  .hero__title {
+    color: #8e0000;
+    font-size: 34px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+  }
 }
