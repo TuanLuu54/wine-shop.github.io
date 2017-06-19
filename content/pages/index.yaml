@@ -8,3 +8,64 @@ partials:
   hero_image: /source/images/4444.png
   title: At Vero Eos Et Accusamus
   description: ducimus qui blanditiis praesentium atque corrupti quos dolores voluptatum deleniti atque corrupti quos dolores et quas.
+
+- partial: feature
+  title: Welcome
+  grids:
+    - icon: fa fa-glass
+      title: famous wines
+      description: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.
+      class: astronaut-blue
+    - icon: fa fa-users
+      title: featured persons
+      description: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.
+      class: tiber
+    - icon: fa fa-heartbeat
+      title: persons liked
+      description: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.
+      class: jelly-bean
+
+- partial: products
+  products:
+    - background: /source/images/5.jpg
+      title: Wine
+      subtitle: Red Wine
+      cta:
+        text: info(at)wine.com
+        url: '#'
+      year: 4 years
+    - background: /source/images/7.jpg
+      title: Wine
+      subtitle: Blue Wine
+      cta:
+        text: info(at)wine.com
+        url: '#'
+      year: 4 years
+    - background: /source/images/6.jpg
+      title: Wine
+      subtitle: Green Wine
+      cta:
+        text: info(at)wine.com
+        url: '#'
+      year: 4 years
+    - background: /source/images/11.jpg
+      title: Wine
+      subtitle: Red Wine
+      cta:
+        text: info(at)wine.com
+        url: '#'
+      year: 4 years
+    - background: /source/images/8.jpg
+      title: Wine
+      subtitle: Red Wine
+      cta:
+        text: info(at)wine.com
+        url: '#'
+      year: 4 years
+    - background: /source/images/12.jpg
+      title: Wine
+      subtitle: Red Wine
+      cta:
+        text: info(at)wine.com
+        url: '#'
+      year: 4 years
