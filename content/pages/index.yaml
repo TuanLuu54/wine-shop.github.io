@@ -5,4 +5,6 @@ $titles:
 
 partials:
 - partial: hero
-  title: Welcome to the wines
+  hero_image: /source/images/4444.png
+  title: At Vero Eos Et Accusamus
+  description: ducimus qui blanditiis praesentium atque corrupti quos dolores voluptatum deleniti atque corrupti quos dolores et quas.

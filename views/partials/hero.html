@@ -1,5 +1,11 @@
 <div class="hero">
   <div class="container">
-    <h1>{{ partial.title }}</h1>
+    <div class="row">
+      <div class="col-sm-12 hero__container">
+        <img src="{{ g.static(partial.hero_image).url.path }}" alt="">
+        <h2 class="hero__title">{{ partial.title}}</h2>
+        <p class="hero__description">{{ partial.description }}</p>
+      </div>
+    </div>
   </div>
 </div>
