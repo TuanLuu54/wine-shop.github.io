@@ -1,0 +1,51 @@
+.best-wines {
+    .best-wines-background {
+      width: 100%;
+      position: relative;
+
+      img {
+        width: 100%;
+        height: 370px;
+        object-fit: cover;
+      }
+    }
+
+    .best-wines-more {
+      position: absolute;
+      right: 9%;
+      width: 30%;
+      top: 0;
+      background-color: #00405d;
+      padding: 20px 30px;
+      top: 10%;
+      color: #fff;
+      height:90%;
+    }
+
+    .best-wines-more__title {
+      font-size: 32px;
+      text-transform: uppercase;
+      padding-bottom: 20px;
+    }
+
+    .best-wines-more__description {
+      line-height: 2.2em;
+      font-size: 16px;
+      margin-bottom: 25px;
+    }
+
+    .best-wines-more__link {
+      padding: 10px;
+      background-color: transparent;
+      border: 1px solid #fff;
+      margin: 20px 0;
+      color: #fff;
+      transition-duration: 0.3s;
+      text-transform: capitalize;
+      
+      &:hover {
+        background-color: #fff;
+        color: #8e0000;
+      }
+    }
+}
