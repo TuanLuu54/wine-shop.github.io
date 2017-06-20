@@ -77,3 +77,24 @@ partials:
   cta:
     text: Read more
     url: '#'
+
+- partial: event
+  columns:
+    - title: Voluptatemut enim
+      details:
+        - detail: Magnam aliquam quaerat voluptatemut enim minima veniam, quis nostrum.
+        - detail: There are many variations of passages of Lorem Ipsum available, but the majority have, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum.
+      image: /source/images/4.jpg
+    - title: Upcoming Events
+      events:
+        - text: Donec quam lscele lorem Ipsum.
+          url: '#'
+        - text: Etiam volutpatbh lorem Ipsum.
+          url: '#'
+        - text: Varius lorem Ipsum available.
+          url: '#'
+        - text: Donec Lorem Ipsum available.
+          url: '#'
+        - text: Etiam volutpatbh Lorem Ipsum.
+          url: '#'
+      image: /source/images/10.jpg
