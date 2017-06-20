@@ -69,3 +69,11 @@ partials:
         text: info(at)wine.com
         url: '#'
       year: 4 years
+
+- partial: best-wines
+  background: /source/images/1.jpg
+  title: The best features
+  description: Contrary to popular belief , Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+  cta:
+    text: Read more
+    url: '#'
