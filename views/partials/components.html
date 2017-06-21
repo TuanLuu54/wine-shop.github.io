@@ -1,0 +1,20 @@
+<div class="components">
+  <div class="container">
+    <div class="row">
+      <h3 class="components__title">{{partial.title}}</h3>
+    </div>
+    <div class="row">
+      <ul class="components__container">
+        {% for item in partial.list %}
+        <li class="col-sm-6 components__item">
+          <h5 class="components__type">{{item.type}}</h5>
+          <div class="components__body">
+            <p class="components__heading">{{item.heading}}</p>
+            <p class="components__description">{{item.description}}</p>
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div> 

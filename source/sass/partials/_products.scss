@@ -1,6 +1,12 @@
 .products {
   padding: 60px 0 75px;
 
+  .products__title {
+    font-size: 48px;
+    color: #8e0000;
+    text-align: center;
+    margin-bottom: 50px;
+  }
   .products__item {
     position: relative;
     width: 350px;

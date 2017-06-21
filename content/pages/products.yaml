@@ -1,7 +1,27 @@
 $title: Products
 $titles:
-  nav@: Products
+  nav@: Our Products
 
 partials:
-- partial: hero
-  title: Products hero
+- partial: cards
+  class: cards__title
+  cards:
+    - image: /source/images/8.jpg
+      title: Solor Sit Amet
+      description: Were dolor in hendrerit in vulputate velit esse molestie con sequat.Donec sit amet eros. Lorem ipsum dolor sit amet.
+    - image: /source/images/12.jpg
+      title: Lorem Ipsum
+      description: Were dolor in hendrerit in vulputate velit esse molestie con sequat.Donec sit amet eros. Lorem ipsum dolor sit amet.
+    - image: /source/images/11.jpg
+      title: Pamet Erosorem
+      description: Were dolor in hendrerit in vulputate velit esse molestie con sequat.Donec sit amet eros. Lorem ipsum dolor sit amet.
+    - image: /source/images/5.jpg
+      title: Solor Sit Amet
+      description: Were dolor in hendrerit in vulputate velit esse molestie con sequat.Donec sit amet eros. Lorem ipsum dolor sit amet.
+    - image: /source/images/7.jpg
+      title: Pamet Erosorem
+      description: Were dolor in hendrerit in vulputate velit esse molestie con sequat.Donec sit amet eros. Lorem ipsum dolor sit amet.
+    - image: /source/images/6.jpg
+      title: Lorem Ipsum
+      description: Were dolor in hendrerit in vulputate velit esse molestie con sequat.Donec sit amet eros. Lorem ipsum dolor sit amet.
+      

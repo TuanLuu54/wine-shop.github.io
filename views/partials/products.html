@@ -1,5 +1,10 @@
 <div class="products">
   <div class="container">
+    {% if partial.class %}
+    <div class="row">
+      <h2 class="products__title">{{doc.titles('nav')}}</h2>
+    </div>
+    {% endif %}
     <div class="row">
       {% for item in partial.products %}
       <div class="col-sm-4">

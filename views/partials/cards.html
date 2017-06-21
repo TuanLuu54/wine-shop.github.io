@@ -1,0 +1,22 @@
+<div class="cards">
+  <div class="container">
+    {% if partial.class %}
+    <div class="row">
+      <h2 class="{{partial.class}}">{{doc.titles('nav')}}</h2>
+    </div>
+    {% endif %}
+    <div class="row">
+      <ul class="cards__content">
+      {% for card in partial.cards %}
+      <li class="col-sm-4 cards__card">
+        <div class="cards__card__image">
+          <img src="{{g.static(card.image).url.path}}" alt="">
+        </div>
+        <h3>{{card.title}}</h3>
+        <p>{{card.description}}</p>
+      </li>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

@@ -73,4 +73,19 @@
       }
     }
   }
+
+  .event__content__about {
+    display: flex;
+    flex-direction: row-reverse;
+    .event__details {
+      width: 80%;
+      margin-left: 40px;
+    }
+  }
+
+  .event__heading {
+    font-size: 48px;
+    color: #8e0000;
+    text-align: center;
+  }
 }
