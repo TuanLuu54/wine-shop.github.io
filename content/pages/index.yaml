@@ -3,111 +3,119 @@ $path: /{root}/
 $titles:
   nav@: Home
 
+
 partials:
 - partial: hero
-  hero_image: /source/images/4444.png
-  title: At Vero Eos Et Accusamus
-  description: ducimus qui blanditiis praesentium atque corrupti quos dolores voluptatum deleniti atque corrupti quos dolores et quas.
+  products:
+    - image: /source/images/4444.png
+      title@: At Vero Eos Et Accusamus
+      description@: ducimus qui blanditiis praesentium atque corrupti quos dolores voluptatum deleniti atque corrupti quos dolores et quas.
+    - image: /source/images/5555.png
+      title@: At Vero Eos Et Accusamus
+      description@: ducimus qui blanditiis praesentium atque corrupti quos dolores voluptatum deleniti atque corrupti quos dolores et quas.
+    - image: /source/images/4444.png
+      title@: At Vero Eos Et Accusamus
+      description@: ducimus qui blanditiis praesentium atque corrupti quos dolores voluptatum deleniti atque corrupti quos dolores et quas.
 
 - partial: feature
-  title: Welcome
+  title@: Welcome
   grids:
     - icon: fa fa-glass
-      title: famous wines
-      description: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.
+      title@: famous wines
+      description@: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.
       class: astronaut-blue
     - icon: fa fa-users
-      title: featured persons
-      description: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.
+      title@: featured persons
+      description@: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.
       class: tiber
     - icon: fa fa-heartbeat
-      title: persons liked
-      description: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.
+      title@: persons liked
+      description@: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.
       class: jelly-bean
 
 - partial: review
-  title: Client Reviews
+  title@: Client Reviews
   persons:
-    - name: phattruong
+    - name@: phattruong
       image: /source/images/phattruong.png
-      quote: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisc elit.
-      info: Phat Truong <br/> Developer at AgilityIO
+      quote@: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisc elit.
+      info@: Phat Truong <br/> Developer at AgilityIO
       column: first
-    - name: phattruong
+    - name@: phattruong
       image: /source/images/canhpham.jpg
-      quote: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisc elit.
-      info: Canh Pham <br/> Developer at AgilityIO
+      quote@: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisc elit.
+      info@: Canh Pham <br/> Developer at AgilityIO
       column: second
 - partial: products
   products:
     - background: /source/images/5.jpg
-      title: Wine
-      subtitle: Red Wine
+      title@: Wine
+      subtitle@: Red Wine
       cta:
         text: info(at)wine.com
         url: '#'
-      year: 4 years
+      year@: 4 years
     - background: /source/images/7.jpg
-      title: Wine
-      subtitle: Blue Wine
+      title@: Wine
+      subtitle@: Blue Wine
       cta:
         text: info(at)wine.com
         url: '#'
-      year: 4 years
+      year@: 4 years
     - background: /source/images/6.jpg
-      title: Wine
-      subtitle: Green Wine
+      title@: Wine
+      subtitle@: Green Wine
       cta:
         text: info(at)wine.com
         url: '#'
-      year: 4 years
+      year@: 4 years
     - background: /source/images/11.jpg
-      title: Wine
-      subtitle: Red Wine
+      title@: Wine
+      subtitle@: Red Wine
       cta:
         text: info(at)wine.com
         url: '#'
-      year: 4 years
+      year@: 4 years
     - background: /source/images/8.jpg
-      title: Wine
-      subtitle: Red Wine
+      title@: Wine
+      subtitle@: Red Wine
       cta:
         text: info(at)wine.com
         url: '#'
-      year: 4 years
+      year@: 4 years
     - background: /source/images/12.jpg
-      title: Wine
-      subtitle: Red Wine
+      title@: Wine
+      subtitle@: Red Wine
       cta:
         text: info(at)wine.com
         url: '#'
-      year: 4 years
+      year@: 4 years
 
 - partial: best-wines
   background: /source/images/1.jpg
-  title: The best features
-  description: Contrary to popular belief , Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+  title@: The best features
+  description@: Contrary to popular belief , Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
   cta:
-    text: Read more
+    text@: Read more
     url: '#'
 
 - partial: event
   columns:
-    - title: Voluptatemut enim
+    - title@: Voluptatemut enim
       details:
-        - detail: Magnam aliquam quaerat voluptatemut enim minima veniam, quis nostrum.
-        - detail: There are many variations of passages of Lorem Ipsum available, but the majority have, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum.
+        - detail@: Magnam aliquam quaerat voluptatemut enim minima veniam, quis nostrum.
+        - detail@: There are many variations of passages of Lorem Ipsum available, but the majority have, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum.
       image: /source/images/4.jpg
-    - title: Upcoming Events
+    - title@: Upcoming Events
       events:
-        - text: Donec quam lscele lorem Ipsum.
+        - text@: Donec quam lscele lorem Ipsum.
           url: '#'
-        - text: Etiam volutpatbh lorem Ipsum.
+        - text@: Etiam volutpatbh lorem Ipsum.
           url: '#'
-        - text: Varius lorem Ipsum available.
+        - text@: Varius lorem Ipsum available.
           url: '#'
-        - text: Donec Lorem Ipsum available.
+        - text@: Donec Lorem Ipsum available.
           url: '#'
-        - text: Etiam volutpatbh Lorem Ipsum.
+        - text@: Etiam volutpatbh Lorem Ipsum.
           url: '#'
       image: /source/images/10.jpg

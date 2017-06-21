@@ -1,0 +1,327 @@
+#: /content/pages/index.yaml /content/pages/wines.yaml
+msgid "4 years"
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "A."
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "About"
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Amet consectetur"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "At Vero Eos Et Accusamus"
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "B."
+msgstr ""
+
+#: /content/pages/index.yaml /content/pages/wines.yaml
+msgid "Blue Wine"
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "C."
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "Canh Pham <br/> Developer at AgilityIO"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "Client Reviews"
+msgstr ""
+
+#: /content/pages/contact.yaml
+msgid "Contact"
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Contact Us"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid ""
+"Contrary to popular belief , Lorem Ipsum is not simply random text. It has "
+"roots in a piece of classical Latin literature from 45 BC, making it over "
+"2000 years old."
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "D."
+msgstr ""
+
+#: /content/pages/index.yaml /content/pages/about.yaml
+msgid "Donec Lorem Ipsum available."
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "Donec in velit vel ipsum"
+msgstr ""
+
+#: /content/pages/index.yaml /content/pages/about.yaml
+msgid "Donec quam lscele lorem Ipsum."
+msgstr ""
+
+#: /content/pages/index.yaml /content/pages/about.yaml
+msgid "Etiam volutpatbh Lorem Ipsum."
+msgstr ""
+
+#: /content/pages/index.yaml /content/pages/about.yaml
+msgid "Etiam volutpatbh lorem Ipsum."
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "Euismod consequat ante"
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Extras"
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Fax: 1234 568"
+msgstr ""
+
+#: /content/pages/contact.yaml
+msgid "Fax:190-4509-494"
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid ""
+"Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer "
+"adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. "
+"Mauris accumsan nulla"
+msgstr ""
+
+#: /content/pages/index.yaml /content/pages/wines.yaml
+msgid "Green Wine"
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Hendrerit quam"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "Home"
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Iquam hendrerit"
+msgstr ""
+
+#: /content/pages/contact.yaml
+msgid "Jasmin Dr 40 Fe 72."
+msgstr ""
+
+#: /content/pages/products.yaml
+msgid "Lorem Ipsum"
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum"
+" molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce "
+"suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient "
+"montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio."
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies "
+"vestibulum velit.Lorem ipsum dolor sit amet."
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies "
+"vestibulum velit.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, "
+"consectetur adipisc elit."
+msgstr ""
+
+#: /content/pages/contact.yaml
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo "
+"consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse "
+"cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non"
+" proident, sunt in culpa qui officia deserunt mollit anim id est "
+"laborum.Contrary ."
+msgstr ""
+
+#: /content/pages/contact.yaml
+msgid "Lorem ipsum dolor,"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "Magnam aliquam quaerat voluptatemut enim minima veniam, quis nostrum."
+msgstr ""
+
+#: /content/pages/contact.yaml
+msgid "My company name,"
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Nunc ut tortor ligula eu petiu"
+msgstr ""
+
+#: /content/pages/products.yaml
+msgid "Our Products"
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "Our ingredients"
+msgstr ""
+
+#: /content/pages/products.yaml
+msgid "Pamet Erosorem"
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Pelleesque"
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Pelleesque conquat dignissim lacus quis altrcies."
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "Phat Truong <br/> Developer at AgilityIO"
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "Praesent justo dolor lobortis quis lobortis!"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "Read more"
+msgstr ""
+
+#: /content/pages/index.yaml /content/pages/wines.yaml
+msgid "Red Wine"
+msgstr ""
+
+#: /content/pages/contact.yaml
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium "
+"doloremque. Lorem ipsum dolor sit."
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Social"
+msgstr ""
+
+#: /content/pages/products.yaml
+msgid "Solor Sit Amet"
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Tel.800-255-9999"
+msgstr ""
+
+#: /content/pages/contact.yaml
+msgid "Tel: 1115550001"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "The best features"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid ""
+"There are many variations of passages of Lorem Ipsum available, but the "
+"majority have, by injected humour, or randomised words which don't look even "
+"slightly believable. If you are going to use a passage of Lorem Ipsum."
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "Upcoming Events"
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Useful Info"
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Ut rutrum neque a mollis"
+msgstr ""
+
+#: /content/partials/footer.yaml
+msgid "Ut rutrum neque a mollis laoreet"
+msgstr ""
+
+#: /content/pages/index.yaml /content/pages/about.yaml
+msgid "Varius lorem Ipsum available."
+msgstr ""
+
+#: /content/pages/contact.yaml
+msgid "View on map"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "Voluptatemut enim"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "Welcome"
+msgstr ""
+
+#: /content/pages/products.yaml
+msgid ""
+"Were dolor in hendrerit in vulputate velit esse molestie con sequat.Donec sit"
+" amet eros. Lorem ipsum dolor sit amet."
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "Why us"
+msgstr ""
+
+#: /content/pages/index.yaml /content/pages/wines.yaml
+msgid "Wine"
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "Wine House"
+msgstr ""
+
+#: /content/pages/wines.yaml
+msgid "Wines"
+msgstr ""
+
+#: /podspec.yaml
+msgid "Wines a Hotel and Restaurants"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid ""
+"ducimus qui blanditiis praesentium atque corrupti quos dolores voluptatum "
+"deleniti atque corrupti quos dolores et quas."
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "famous wines"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "featured persons"
+msgstr ""
+
+#: /content/pages/contact.yaml
+msgid "mail@example.com"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "persons liked"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "phattruong"
+msgstr ""
+

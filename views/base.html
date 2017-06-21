@@ -10,10 +10,12 @@
     <link href="https://fonts.googleapis.com/css?family=Ropa+Sans" rel="stylesheet">
     <link rel="stylesheet" href="{{g.static('/dist/css/main.min.css').url.path}}">
     <script src="https://use.fontawesome.com/cd8fa85c5d.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="{{g.static('/dist/js/main.min.js').url.path}}"></script>
   </head>
 <body>
-  {% with partial = g.doc("/content/partials/header.yaml") %}
+  {% with partial = g.doc("/content/partials/header.yaml", locale=doc.locale) %}
     {% include "/views/partials/header.html" %}
   {% endwith %}
   <div class="main">
@@ -29,7 +31,7 @@
       {% endblock %}
     </div>
   </div>
-  {% with partial = g.doc("/content/partials/footer.yaml") %}
+  {% with partial = g.doc("/content/partials/footer.yaml", locale=doc.locale) %}
     {% include "/views/partials/footer.html" %}
   {% endwith %}
 </body>
