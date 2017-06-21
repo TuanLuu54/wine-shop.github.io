@@ -1,27 +1,27 @@
 columns:
-- heading: Extras
+- heading@: Extras
   cta:
-    - text: Ut rutrum neque a mollis laoreet
+    - text@: Ut rutrum neque a mollis laoreet
       url: '#'
-    - text: Nunc ut tortor ligula eu petiu
+    - text@: Nunc ut tortor ligula eu petiu
       url: '#'
-    - text: Pelleesque
+    - text@: Pelleesque
       url: '#'
-    - text: Ut rutrum neque a mollis
+    - text@: Ut rutrum neque a mollis
       url: '#'
-- heading: Useful Info
+- heading@: Useful Info
   cta:
-    - text: Hendrerit quam
+    - text@: Hendrerit quam
       url: '#'
-    - text: Amet consectetur
+    - text@: Amet consectetur
       url: '#'
-    - text: Iquam hendrerit
+    - text@: Iquam hendrerit
       url: '#'
-    - text: Hendrerit quam
+    - text@: Hendrerit quam
       url: '#'
-    - text: Amet consectetur
+    - text@: Amet consectetur
       url: '#'
-- heading: Social
+- heading@: Social
   cta:
     - socials:
         - icon: fa fa-facebook
@@ -30,9 +30,9 @@ columns:
           url: 'https://twitter.com/'
         - icon: fa fa-linkedin
           url: 'https://linkedin.com/'
-- heading: Contact Us
+- heading@: Contact Us
   cta:
-    - text: Pelleesque conquat dignissim lacus quis altrcies.
-    - text: Tel.800-255-9999
-    - text: 'Fax: 1234 568'
+    - text@: Pelleesque conquat dignissim lacus quis altrcies.
+    - text@: Tel.800-255-9999
+    - text@: 'Fax: 1234 568'
     - text: "Email: <a href='#'>example.com</a>"

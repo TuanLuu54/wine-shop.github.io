@@ -2,18 +2,45 @@
   background-color: #eae089;
 
   .hero__container {
-    margin: 50px auto 100px;
+    margin: 10px auto 100px;
     text-align: center;
   }
 
   .hero__title {
     color: #8e0000;
-    font-size: 42px;
+    font-size: 36px;
     text-transform: capitalize;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 
   .hero__description {
-    font-size: 24px;
+    font-size: 20px;
+    color: #000;
+  }
+
+  .carousel-inner>.item>img {
+    margin: 0 auto;
+  }
+
+  .carousel-caption {
+    padding-bottom: 35px;
+    position: relative;
+    left: 0;
+    right: 0;
+    text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
+  }
+
+  .carousel-indicators .active,
+  .carousel-indicators li:hover {
+    background-color: #8e0000;
+  }
+
+  .carousel-indicators li {
+    border-color: #2a2017;
+    background-color: #2a2017;
+  }
+
+  .carousel-inner>.item {
+    transform: 0.4s ease-in-out;
   }
 }

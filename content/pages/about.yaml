@@ -2,40 +2,41 @@ $title: About
 $titles:
   nav@: About
 
+
 partials:
 - partial: event
   class: event__content__about
   columns:
-    - title: Wine House
+    - title@: Wine House
       details:
-        - detail: Praesent justo dolor lobortis quis lobortis!
-        - detail: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio.
+        - detail@: Praesent justo dolor lobortis quis lobortis!
+        - detail@: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio.
       image: /source/images/abt.jpg
-    - title: Why us
+    - title@: Why us
       events:
-        - text: Donec quam lscele lorem Ipsum.
+        - text@: Donec quam lscele lorem Ipsum.
           url: '#'
-        - text: Etiam volutpatbh lorem Ipsum.
+        - text@: Etiam volutpatbh lorem Ipsum.
           url: '#'
-        - text: Varius lorem Ipsum available.
+        - text@: Varius lorem Ipsum available.
           url: '#'
-        - text: Donec Lorem Ipsum available.
+        - text@: Donec Lorem Ipsum available.
           url: '#'
-        - text: Etiam volutpatbh Lorem Ipsum.
+        - text@: Etiam volutpatbh Lorem Ipsum.
           url: '#'
 
 - partial: components
-  title: Our ingredients
+  title@: Our ingredients
   list:
-    - type: "A."
-      heading: Donec in velit vel ipsum
-      description: Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla
-    - type: "B."
-      heading: Euismod consequat ante
-      description: Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla
-    - type: "C."
-      heading: Donec in velit vel ipsum
-      description: Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla
-    - type: "D."
-      heading: Euismod consequat ante
-      description: Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla
+    - type@: "A."
+      heading@: Donec in velit vel ipsum
+      description@: Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla
+    - type@: "B."
+      heading@: Euismod consequat ante
+      description@: Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla
+    - type@: "C."
+      heading@: Donec in velit vel ipsum
+      description@: Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla
+    - type@: "D."
+      heading@: Euismod consequat ante
+      description@: Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla
