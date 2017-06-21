@@ -25,6 +25,19 @@ partials:
       description: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.
       class: jelly-bean
 
+- partial: review
+  title: Client Reviews
+  persons:
+    - name: phattruong
+      image: /source/images/phattruong.png
+      quote: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisc elit.
+      info: Phat Truong <br/> Developer at AgilityIO
+      column: first
+    - name: phattruong
+      image: /source/images/canhpham.jpg
+      quote: Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisc elit.
+      info: Canh Pham <br/> Developer at AgilityIO
+      column: second
 - partial: products
   products:
     - background: /source/images/5.jpg

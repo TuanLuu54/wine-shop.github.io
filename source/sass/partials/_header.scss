@@ -19,12 +19,13 @@
 
   .header__nav__item {
     margin: 20px;
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .header__nav__item--link {
     color: black;
-    
+
+    &:hover,
     &-active {
       color: $color-red-berry;
       border-bottom: 2px solid $color-red-berry;

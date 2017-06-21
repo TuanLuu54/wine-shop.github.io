@@ -9,19 +9,18 @@
 
   .event__details {
     color: gray;
-    line-height: 2.1em;
+    line-height: 2em;
     padding-bottom: 20px;
   }
 
   .event__description {
     font-weight: bold;
-    font-size: 16px;
+    font-size: 22px;
     color: #000;
-    padding-bottom: 20px;
   }
 
   .event__list {
-    margin-bottom: 24px;
+    margin-bottom: 18px;
   }
 
   .event__list__item {
@@ -49,28 +48,10 @@
       display: inline-block;
       width: 15px;
       height: 13px;
-      top: 5%;
+      top: 16%;
       left: 0;
       margin-right: 20px;
       position: absolute;
-    }
-  }
-
-  .event__images {
-    
-    max-width: 540px;
-    overflow: hidden;
-    position: relative;
-
-    .event__image {
-      max-width: 100%;
-      transition: 1s all ease;
-    }
-
-    &:hover {
-      .event__image {
-        transform: scale(1.1);
-      }
     }
   }
 
@@ -87,5 +68,21 @@
     font-size: 48px;
     color: #8e0000;
     text-align: center;
+  }
+}
+.event__images {
+  max-width: 540px;
+  overflow: hidden;
+  position: relative;
+
+  .event__image {
+    width: 100%;
+    transition: 1s all ease;
+  }
+
+  &:hover {
+    .event__image {
+      transform: scale(1.1);
+    }
   }
 }

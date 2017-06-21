@@ -5,6 +5,7 @@
   .footer__heading {
     color: #fff;
     margin-bottom: 40px;
+    font-size: 36px;
   }
 
   .footer__item {
@@ -16,12 +17,10 @@
   .footer__copyright p {
     color: gray;
     line-height: 1.4;
-    font-size: 16px;
+    font-size: 18px;
   }
 
-  .footer__item-link:hover,
-  .footer__item-link:active,
-  .footer__item-link:visited {
+  .footer__item-link:hover {
     color: #fff;
   }
 

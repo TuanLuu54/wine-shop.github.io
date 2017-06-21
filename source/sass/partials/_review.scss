@@ -1,0 +1,51 @@
+.review {
+  padding: 50px 0 60px;
+  background-color: #f8f8f9;
+
+  .review__title {
+    font-size: 48px;
+    color: #8e0000;
+    text-align: center;
+    padding-bottom: 48px;
+  }
+
+  .review__first {
+    padding: 10px 20px 45px;
+  }
+
+  .review__second {
+    display: flex;
+    flex-direction: row-reverse;
+
+    .second {
+      text-align: left;
+    }
+
+    .review__second__quote {
+      text-align: right;
+    }
+  }
+
+  .review__image {
+    position: relative;
+    overflow: hidden;
+    text-align: right;
+
+    img {
+      border-radius: 50%;
+      height: 120px;
+      width: 120px;
+      border: 4px solid rgba(222, 222, 222, 0.71);
+      object-fit: cover;
+    }
+  }
+
+  .review__quote {
+    color: gray;
+  }
+
+  .review__quote__info {
+    font-style: italic;
+    color: #000;
+  }
+}
