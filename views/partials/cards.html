@@ -2,7 +2,7 @@
   <div class="container">
     {% if partial.class %}
     <div class="row">
-      <h2 class="{{partial.class}}">{{doc.titles('nav')}}</h2>
+      <h2 class="{{partial.class}}">{{_(doc.titles('nav'))}}</h2>
     </div>
     {% endif %}
     <div class="row">
@@ -12,8 +12,8 @@
         <div class="cards__card__image event__images">
           <img class="event__image" src="{{g.static(card.image).url.path}}" alt="">
         </div>
-        <h3 class="cards__card__title">{{card.title}}</h3>
-        <p class="cards__card__description">{{card.description}}</p>
+        <h3 class="cards__card__title">{{_(card.title)}}</h3>
+        <p class="cards__card__description">{{_(card.description)}}</p>
       </li>
       {% endfor %}
       </ul>

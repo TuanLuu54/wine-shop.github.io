@@ -2,6 +2,8 @@ $title: About
 $titles:
   nav@: About
 
+$localization:
+  path: /{locale}/{base}
 
 partials:
 - partial: event

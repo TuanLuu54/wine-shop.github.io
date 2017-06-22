@@ -2,6 +2,9 @@ $title: Products
 $titles:
   nav@: Our Products
 
+$localization:
+  path: /{locale}/{base}
+  
 partials:
 - partial: cards
   class: cards__title

@@ -1,7 +1,7 @@
 <div class="feature">
   <div class="container">
     <div class="row">
-      <h3 class="feature__title">{{partial.title}}</h3>
+      <h3 class="feature__title">{{_(partial.title)}}</h3>
     </div>
     <ul class="row feature__grids">
       {% for item in partial.grids %}
@@ -10,8 +10,8 @@
           <div class="feature__grids__icon">
             <i class="{{ item.icon }}" aria-hidden="true"></i>
           </div>
-          <div class="feature__grids__title">{{item.title}}</div>
-          <div class="feature__grids__description">{{item.description}}</div>
+          <div class="feature__grids__title">{{_(item.title)}}</div>
+          <div class="feature__grids__description">{{_(item.description)}}</div>
         </div>
       </li>
       {% endfor %}
