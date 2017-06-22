@@ -1,6 +1,10 @@
 .header {
   background-color: #eae089;
 
+  .header__nav {
+    display: flex;
+  }
+
   .header__logo {
     margin: 0 auto;
     text-transform: uppercase;
@@ -17,11 +21,13 @@
     display: flex;
     list-style-type: none;
     padding: 10px 20px;
+    width: 80%;
   }
 
   .header__nav__item {
     margin: 20px;
     font-size: 20px;
+    display: flex;
   }
 
   .header__nav__item--link {
@@ -33,5 +39,14 @@
       border-bottom: 2px solid $color-red-berry;
       padding-bottom: 15px;
     }
+  }
+
+  .header__nav__translate {
+    width: 100px;
+    position: relative;
+    padding: 5px 0;
+    top: 30px;
+    font-size: 14px;
+    background: transparent;
   }
 }

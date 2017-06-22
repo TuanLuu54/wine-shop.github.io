@@ -2,7 +2,7 @@
   <div class="container">
     {% if partial.class %}
     <div class="row">
-      <h2 class="{{partial.class}}">{{doc.titles('nav')}}</h2>
+      <h2 class="{{partial.class}}">{{_(doc.titles('nav'))}}</h2>
     </div>
     {% endif %}
     <div class="row contact__contact">
@@ -24,8 +24,8 @@
         </div>
       </div>
       <div class="col-sm-6 contact__information">
-        <h3 class="contact__information__title">{{partial.title}}</h3>
-        <p>{{partial.description}}</p>
+        <h3 class="contact__information__title">{{_(partial.title)}}</h3>
+        <p>{{_(partial.description)}}</p>
         <div class="row contact__company">
           {% for info in partial.contact%}
           <span class="col-sm-4 contact__info">{{info}}</span>

@@ -2,7 +2,7 @@
   <div class="container">
     {% if partial.class %}
     <div class="row">
-      <h2 class="event__heading">{{doc.titles('nav')}}</h2>
+      <h2 class="event__heading">{{_(doc.titles('nav'))}}</h2>
     </div>
     {% endif %}
     <div class="row event__content__title">
@@ -18,12 +18,12 @@
         {% set classColumn = "col-sm-6" %}
         {% endif %}
         <div class="{{classColumn}}">
-          <h3 class="event__title">{{column.title}}</h3>
+          <h3 class="event__title">{{_(column.title)}}</h3>
           <div class="{{partial.class if loop.index == 1}}">
             {% if column.details %}
             <div class="event__details">
               {% for detail in column.details %}
-              <p class="{{"event__description" if loop.index == 1}}">{{detail.detail}}</p>
+              <p class="{{"event__description" if loop.index == 1}}">{{_(detail.detail)}}</p>
               {% endfor %}
             </div>
             {% endif %}
@@ -31,7 +31,7 @@
             <ul class="event__list">
               {% for event in column.events %}
               <li class="event__list__item">
-                <a class="event__list__link" href="{{event.url}}">{{event.text}}</a>
+                <a class="event__list__link" href="{{event.url}}">{{_(event.text)}}</a>
               </li>
               {% endfor %}
             </ul>

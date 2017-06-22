@@ -3,6 +3,8 @@ $path: /{root}/
 $titles:
   nav@: Home
 
+$localization:
+  path: /{locale}/{root}/
 
 partials:
 - partial: hero

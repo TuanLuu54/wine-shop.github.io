@@ -1,7 +1,7 @@
 <div class="review">
   <div class="container">
     <div class="row">
-      <h2 class="review__title">{{partial.title}}</h2>
+      <h2 class="review__title">{{_(partial.title)}}</h2>
     </div>
     {% for person in partial.persons %}
     <div class="row review__{{person.column}}">
@@ -9,7 +9,8 @@
         <img class="review__picture" src="{{g.static(person.image).url.path}}" alt="">
       </div>
       <div class="col-sm-8 review__quote review__{{person.column}}__quote">
-        <p>{{person.quote}}</p>
+        <p>{{_(person.quote)}}</p>
+        <p class="review__quote__info">{{_(person.info)}}</p>
       </div>
     </div>
     {% endfor %}

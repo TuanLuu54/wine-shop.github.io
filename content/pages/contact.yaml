@@ -3,6 +3,9 @@ $titles:
   nav@: Contact
   map@: View on map
 
+$localization:
+  path: /{locale}/{base}
+  
 partials:
 - partial: contact
   class: contact__heading

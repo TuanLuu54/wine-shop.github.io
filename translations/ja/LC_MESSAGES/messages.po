@@ -8,7 +8,7 @@ msgstr ""
 
 #: /content/pages/about.yaml
 msgid "About"
-msgstr ""
+msgstr "約"
 
 #: /content/partials/footer.yaml
 msgid "Amet consectetur"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: /content/pages/index.yaml
 msgid "At Vero Eos Et Accusamus"
-msgstr "Day la tieng Viet Nhat"
+msgstr "にそも訓供ヲオムコ"
 
 #: /content/pages/about.yaml
 msgid "B."
@@ -32,15 +32,15 @@ msgstr ""
 
 #: /content/pages/index.yaml
 msgid "Canh Pham <br/> Developer at AgilityIO"
-msgstr "Con cho"
+msgstr "Canh Pham <br/> AgilityIOの開発者"
 
 #: /content/pages/index.yaml
 msgid "Client Reviews"
-msgstr ""
+msgstr "クライアントのレビュー"
 
 #: /content/pages/contact.yaml
 msgid "Contact"
-msgstr ""
+msgstr "接触"
 
 #: /content/partials/footer.yaml
 msgid "Contact Us"
@@ -51,7 +51,7 @@ msgid ""
 "Contrary to popular belief , Lorem Ipsum is not simply random text. It has "
 "roots in a piece of classical Latin literature from 45 BC, making it over "
 "2000 years old."
-msgstr ""
+msgstr "一般的な信念とは対照的に、Lorem Ipsumは単にランダムなテキストではありません。 45年からのもので、2000年以。"
 
 #: /content/pages/about.yaml
 msgid "D."
@@ -110,7 +110,7 @@ msgstr ""
 
 #: /content/pages/index.yaml
 msgid "Home"
-msgstr ""
+msgstr "ホーム"
 
 #: /content/partials/footer.yaml
 msgid "Iquam hendrerit"
@@ -136,14 +136,14 @@ msgstr ""
 msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies "
 "vestibulum velit.Lorem ipsum dolor sit amet."
-msgstr ""
+msgstr "率年表北器敗香おげだ。訴港たルぼ貢4裁コ落施み治投ワレユ駅家げラざ無天山ラユル警録神へめ南会べイ一治初ソセサネ潟女エヘマヌ聞"
 
 #: /content/pages/index.yaml
 msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies "
 "vestibulum velit.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, "
 "consectetur adipisc elit."
-msgstr ""
+msgstr "率年表北器敗香おげだ。訴港たルぼ貢4裁コ落施み治投ワレユ駅家げラざ無天山ラユル警録神へめ南会べイ一治初ソセサネ潟女エヘマヌ聞9最ぱ初"
 
 #: /content/pages/contact.yaml
 msgid ""
@@ -174,7 +174,7 @@ msgstr ""
 
 #: /content/pages/products.yaml
 msgid "Our Products"
-msgstr ""
+msgstr "当社の製品"
 
 #: /content/pages/about.yaml
 msgid "Our ingredients"
@@ -194,7 +194,7 @@ msgstr ""
 
 #: /content/pages/index.yaml
 msgid "Phat Truong <br/> Developer at AgilityIO"
-msgstr ""
+msgstr "Phat Truong <br/> AgilityIOの開発者"
 
 #: /content/pages/about.yaml
 msgid "Praesent justo dolor lobortis quis lobortis!"
@@ -232,7 +232,7 @@ msgstr ""
 
 #: /content/pages/index.yaml
 msgid "The best features"
-msgstr ""
+msgstr "最高の機能"
 
 #: /content/pages/index.yaml
 msgid ""
@@ -271,7 +271,7 @@ msgstr ""
 
 #: /content/pages/index.yaml
 msgid "Welcome"
-msgstr ""
+msgstr "ようこそ"
 
 #: /content/pages/products.yaml
 msgid ""
@@ -293,7 +293,7 @@ msgstr ""
 
 #: /content/pages/wines.yaml
 msgid "Wines"
-msgstr ""
+msgstr "ワイン"
 
 #: /podspec.yaml
 msgid "Wines a Hotel and Restaurants"
@@ -303,15 +303,16 @@ msgstr ""
 msgid ""
 "ducimus qui blanditiis praesentium atque corrupti quos dolores voluptatum "
 "deleniti atque corrupti quos dolores et quas."
-msgstr ""
+msgstr "挙合べ前真テツミ聞平トタ裁症ニノ特軽スホ転疎す経必げみラ予 "
+"予図ゆじど日24五ロリ希90破止魚器4発ユミワ都光メ."
 
 #: /content/pages/index.yaml
 msgid "famous wines"
-msgstr ""
+msgstr "有名なワイン"
 
 #: /content/pages/index.yaml
 msgid "featured persons"
-msgstr ""
+msgstr "注目人物"
 
 #: /content/pages/contact.yaml
 msgid "mail@example.com"
@@ -319,7 +320,7 @@ msgstr ""
 
 #: /content/pages/index.yaml
 msgid "persons liked"
-msgstr ""
+msgstr "人が好き"
 
 #: /content/pages/index.yaml
 msgid "phattruong"
