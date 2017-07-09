@@ -1,34 +1,56 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-07-08 23:57+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
 #: /content/pages/index.yaml /content/pages/wines.yaml
 msgid "4 years"
-msgstr "4 years"
+msgstr "4 năm"
 
 #: /content/pages/about.yaml
 msgid "A."
-msgstr ""
+msgstr "A."
 
 #: /content/pages/about.yaml
 msgid "About"
-msgstr "About"
+msgstr "Về chúng tôi"
 
 #: /content/partials/footer.yaml
 msgid "Amet consectetur"
-msgstr ""
+msgstr "Амет consectetur"
 
 #: /content/pages/index.yaml
 msgid "At Vero Eos Et Accusamus"
-msgstr ""
+msgstr "В Vero Eos Et Accusamus"
 
 #: /content/pages/about.yaml
 msgid "B."
-msgstr ""
+msgstr "B."
 
 #: /content/pages/index.yaml /content/pages/wines.yaml
 msgid "Blue Wine"
-msgstr ""
+msgstr "Синее вино"
 
 #: /content/pages/about.yaml
 msgid "C."
-msgstr ""
+msgstr "C."
 
 #: /content/pages/index.yaml
 msgid "Canh Pham <br/> Developer at AgilityIO"
@@ -52,46 +74,49 @@ msgid ""
 "roots in a piece of classical Latin literature from 45 BC, making it over "
 "2000 years old."
 msgstr ""
+"Вопреки распространенному мнению, Lorem Ipsum это не просто случайный текст. "
+"Она имеет корни в части классической латинской литературы от 45 до нашей эры,"
+" что делает его более 2000 лет."
 
 #: /content/pages/about.yaml
 msgid "D."
-msgstr ""
+msgstr "D."
 
 #: /content/pages/about.yaml /content/pages/index.yaml
 msgid "Donec Lorem Ipsum available."
-msgstr ""
+msgstr "Донец Lorem Ipsum доступны."
 
 #: /content/pages/about.yaml
 msgid "Donec in velit vel ipsum"
-msgstr ""
+msgstr "Донец в велит Vel Ipsum"
 
 #: /content/pages/about.yaml /content/pages/index.yaml
 msgid "Donec quam lscele lorem Ipsum."
-msgstr ""
+msgstr "Донец Квам lscele Lorem Ipsum."
 
 #: /content/pages/about.yaml /content/pages/index.yaml
 msgid "Etiam volutpatbh Lorem Ipsum."
-msgstr ""
+msgstr "Etiam volutpatbh Lorem Ipsum."
 
 #: /content/pages/about.yaml /content/pages/index.yaml
 msgid "Etiam volutpatbh lorem Ipsum."
-msgstr ""
+msgstr "Etiam volutpatbh Lorem Ipsum."
 
 #: /content/pages/about.yaml
 msgid "Euismod consequat ante"
-msgstr ""
+msgstr "Euismod consequat ант"
 
 #: /content/partials/footer.yaml
 msgid "Extras"
-msgstr ""
+msgstr "Дополнительно"
 
 #: /content/partials/footer.yaml
 msgid "Fax: 1234 568"
-msgstr ""
+msgstr "Факс: 1234 568"
 
 #: /content/pages/contact.yaml
 msgid "Fax:190-4509-494"
-msgstr ""
+msgstr "Факс: 190-4509-494"
 
 #: /content/pages/about.yaml
 msgid ""
@@ -99,14 +124,17 @@ msgid ""
 "adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. "
 "Mauris accumsan nulla"
 msgstr ""
+"Fusce euismod consequat анте. Lorem Ipsum боль сидеть Амет, consectetuer "
+"adipiscing Элит. Pellentesque СЕПГ Dolor. Aliquam congue fermentum nisl. "
+"Mauris accumsan Nulla"
 
 #: /content/pages/index.yaml /content/pages/wines.yaml
 msgid "Green Wine"
-msgstr ""
+msgstr "молодое вино"
 
 #: /content/partials/footer.yaml
 msgid "Hendrerit quam"
-msgstr ""
+msgstr "Hendrerit Ква"
 
 #: /content/pages/index.yaml
 msgid "Home"
@@ -114,15 +142,15 @@ msgstr "Trang chủ"
 
 #: /content/partials/footer.yaml
 msgid "Iquam hendrerit"
-msgstr ""
+msgstr "Iquam hendrerit"
 
 #: /content/pages/contact.yaml
 msgid "Jasmin Dr 40 Fe 72."
-msgstr ""
+msgstr "Д-р жасмин 40 Fe 72."
 
 #: /content/pages/products.yaml
 msgid "Lorem Ipsum"
-msgstr ""
+msgstr "Lorem Ipsum"
 
 #: /content/pages/about.yaml
 msgid ""
@@ -131,12 +159,19 @@ msgid ""
 "suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient "
 "montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio."
 msgstr ""
+"Lorem Ipsum боль сидеть Амет, consectetuer adipiscing Элит. Связаться с Нами "
+"преддверие molestie Lacus. Aenean nonummy hendrerit mauris. Phasellus Порта. "
+"Fusce suscipit VariUs ми. Сперма sociis natoque penatibus и др Magnis Дис "
+"роженица Монтес, nascetur ridiculus мус. Nulla дуй. Fusce feugiat malesuada "
+"Одио."
 
 #: /content/pages/index.yaml
 msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies "
 "vestibulum velit.Lorem ipsum dolor sit amet."
 msgstr ""
+"Lorem Ipsum боль сидеть Амет, consectetur adipisc Элит. Proin ultricies "
+"преддверия velit.Lorem Ipsum Dolor сидеть Амет."
 
 #: /content/pages/index.yaml
 msgid ""
@@ -144,6 +179,9 @@ msgid ""
 "vestibulum velit.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, "
 "consectetur adipisc elit."
 msgstr ""
+"Lorem Ipsum боль сидеть Амет, consectetur adipisc Элит. Proin ultricies "
+"преддверия velit.Lorem Ipsum боль сидеть amet.Lorem Ipsum Dolor сидеть Амет, "
+"consectetur adipisc Элит."
 
 #: /content/pages/contact.yaml
 msgid ""
@@ -155,22 +193,31 @@ msgid ""
 " proident, sunt in culpa qui officia deserunt mollit anim id est "
 "laborum.Contrary ."
 msgstr ""
+"Lorem Ipsum боль сидеть Амет, consectetur adipiscing Элит, SED Tempor и "
+"жизнеспособность, так что труд и горе, некоторые важные вещи, чтобы сделать "
+"eiusmod. На протяжении многих лет я пришел, кто nostrud aliquip из нее "
+"преимущества упражнений, так что усилия по стимулированию, если школьный "
+"округ и долговечность. Хотите быть боль в cupidatat cillum была подвергнута "
+"критике в DUIs и др Dolore MAGNA бежать не производит результирующую "
+"удовольствие. Excepteur cupidatat чернокожие не excepteur, успокаивает душу, "
+"то есть, они покинули общий раздел будет виноват, что услуги должны быть "
+"laborum.Contrary."
 
 #: /content/pages/contact.yaml
 msgid "Lorem ipsum dolor,"
-msgstr ""
+msgstr "Lorem Ipsum боль;"
 
 #: /content/pages/index.yaml
 msgid "Magnam aliquam quaerat voluptatemut enim minima veniam, quis nostrum."
-msgstr ""
+msgstr "Некоторые большие, искать voluptatemut даже наименее приду, кто из нас."
 
 #: /content/pages/contact.yaml
 msgid "My company name,"
-msgstr ""
+msgstr "Название моей компании;"
 
 #: /content/partials/footer.yaml
 msgid "Nunc ut tortor ligula eu petiu"
-msgstr ""
+msgstr "Теперь, когда микрофон футбол вы"
 
 #: /content/pages/products.yaml
 msgid "Our Products"
@@ -178,61 +225,63 @@ msgstr "Sản phẩm"
 
 #: /content/pages/about.yaml
 msgid "Our ingredients"
-msgstr ""
+msgstr "наши ингредиенты"
 
 #: /content/pages/products.yaml
 msgid "Pamet Erosorem"
-msgstr ""
+msgstr "pamet erosorem"
 
 #: /content/partials/footer.yaml
 msgid "Pelleesque"
-msgstr ""
+msgstr "Pelleesque"
 
 #: /content/partials/footer.yaml
 msgid "Pelleesque conquat dignissim lacus quis altrcies."
-msgstr ""
+msgstr "Pelleesque Conquæs футбол предприниматели, которые altrcies."
 
 #: /content/pages/index.yaml
 msgid "Phat Truong <br/> Developer at AgilityIO"
-msgstr ""
+msgstr "Чыонг Phat <br/> Разработчик в AgilityIO"
 
 #: /content/pages/about.yaml
 msgid "Praesent justo dolor lobortis quis lobortis!"
-msgstr ""
+msgstr "Present боль таблетки только одна коробка!"
 
 #: /content/pages/index.yaml
 msgid "Read more"
-msgstr ""
+msgstr "более"
 
 #: /content/pages/index.yaml /content/pages/wines.yaml
 msgid "Red Wine"
-msgstr ""
+msgstr "красное вино"
 
 #: /content/pages/contact.yaml
 msgid ""
 "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium "
 "doloremque. Lorem ipsum dolor sit."
 msgstr ""
+"Однако, чтобы объяснить вам, как все это ошибочная идея денонсировать "
+"удовольствие и боль. Lorem Ipsum боль."
 
 #: /content/partials/footer.yaml
 msgid "Social"
-msgstr ""
+msgstr "социального"
 
 #: /content/pages/products.yaml
 msgid "Solor Sit Amet"
-msgstr ""
+msgstr "В настоящее время в одиночку"
 
 #: /content/partials/footer.yaml
 msgid "Tel.800-255-9999"
-msgstr ""
+msgstr "Tel.800-255-9999"
 
 #: /content/pages/contact.yaml
 msgid "Tel: 1115550001"
-msgstr ""
+msgstr "Тел: 1115550001"
 
 #: /content/pages/index.yaml
 msgid "The best features"
-msgstr ""
+msgstr "Лучшие черты"
 
 #: /content/pages/index.yaml
 msgid ""
@@ -240,26 +289,29 @@ msgid ""
 "majority have, by injected humour, or randomised words which don't look even "
 "slightly believable. If you are going to use a passage of Lorem Ipsum."
 msgstr ""
+"Есть много вариантов прохождений Lorem Ipsum доступны, но большинство из них,"
+" юмористические вставки или слова, которые не выглядят даже немного "
+"правдоподобно. Если вы собираетесь использовать отрывок из Lorem Ipsum."
 
 #: /content/pages/index.yaml
 msgid "Upcoming Events"
-msgstr ""
+msgstr "Предстоящие события"
 
 #: /content/partials/footer.yaml
 msgid "Useful Info"
-msgstr ""
+msgstr "полезная информация"
 
 #: /content/partials/footer.yaml
 msgid "Ut rutrum neque a mollis"
-msgstr ""
+msgstr "Для макияжа или мягкий"
 
 #: /content/partials/footer.yaml
 msgid "Ut rutrum neque a mollis laoreet"
-msgstr ""
+msgstr "Для макияжа или мягкой Laoreet"
 
 #: /content/pages/about.yaml /content/pages/index.yaml
 msgid "Varius lorem Ipsum available."
-msgstr ""
+msgstr "Varius Lorem Ipsum доступны."
 
 #: /content/pages/contact.yaml
 msgid "View on map"
@@ -267,7 +319,7 @@ msgstr "Xem trên bản đồ"
 
 #: /content/pages/index.yaml
 msgid "Voluptatemut enim"
-msgstr ""
+msgstr "Для Voluptatemut"
 
 #: /content/pages/index.yaml
 msgid "Welcome"
@@ -278,6 +330,8 @@ msgid ""
 "Were dolor in hendrerit in vulputate velit esse molestie con sequat.Donec sit"
 " amet eros. Lorem ipsum dolor sit amet."
 msgstr ""
+"Были Dolor в hendrerit в vulputate велит еззе molestie жулик sequat.Donec "
+"сидеть Амет эрос. Lorem Ipsum морковь."
 
 #: /content/pages/about.yaml
 msgid "Why us"
@@ -285,43 +339,45 @@ msgstr "Vì sao nên chọn chúng tôi?"
 
 #: /content/pages/index.yaml /content/pages/wines.yaml
 msgid "Wine"
-msgstr ""
+msgstr "вино"
 
 #: /content/pages/about.yaml
 msgid "Wine House"
-msgstr ""
+msgstr "винный дом"
 
 #: /content/pages/wines.yaml
 msgid "Wines"
-msgstr ""
+msgstr "Вина"
 
 #: /podspec.yaml
 msgid "Wines a Hotel and Restaurants"
-msgstr ""
+msgstr "Вина из гостиниц и ресторанов"
 
 #: /content/pages/index.yaml
 msgid ""
 "ducimus qui blanditiis praesentium atque corrupti quos dolores voluptatum "
 "deleniti atque corrupti quos dolores et quas."
 msgstr ""
+"и бесчестие, те, кто, испорчены лестью настоящего deleniti этих болей, "
+"удовольствий, и из них развратители, и какие из этих болей."
 
 #: /content/pages/index.yaml
 msgid "famous wines"
-msgstr ""
+msgstr "знаменитый винный"
 
 #: /content/pages/index.yaml
 msgid "featured persons"
-msgstr ""
+msgstr "признаки лицо"
 
 #: /content/pages/contact.yaml
 msgid "mail@example.com"
-msgstr ""
+msgstr "mail@example.com"
 
 #: /content/pages/index.yaml
 msgid "persons liked"
-msgstr ""
+msgstr "люди любили"
 
 #: /content/pages/index.yaml
 msgid "phattruong"
-msgstr ""
+msgstr "phattruong"
 

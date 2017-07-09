@@ -263,7 +263,7 @@ msgstr ""
 
 #: /content/pages/contact.yaml
 msgid "View on map"
-msgstr ""
+msgstr "Xem trên bản đồ"
 
 #: /content/pages/index.yaml
 msgid "Voluptatemut enim"

@@ -1,0 +1,32 @@
+dependencies:
+  /content/pages/about.yaml:
+  - /content/pages/about.yaml
+  - /content/pages/index.yaml
+  - /content/partials/footer.yaml
+  - /content/partials/header.yaml
+  /content/pages/contact.yaml:
+  - /content/pages/contact.yaml
+  - /content/pages/index.yaml
+  - /content/partials/footer.yaml
+  - /content/partials/header.yaml
+  /content/pages/index.yaml:
+  - /content/pages/index.yaml
+  - /content/partials/footer.yaml
+  - /content/partials/header.yaml
+  /content/pages/products.yaml:
+  - /content/pages/index.yaml
+  - /content/pages/products.yaml
+  - /content/partials/footer.yaml
+  - /content/partials/header.yaml
+  /content/pages/wines.yaml:
+  - /content/pages/index.yaml
+  - /content/pages/wines.yaml
+  - /content/partials/footer.yaml
+  - /content/partials/header.yaml
+  /content/partials/header.yaml:
+  - /content/pages/about.yaml
+  - /content/pages/contact.yaml
+  - /content/pages/index.yaml
+  - /content/pages/products.yaml
+  - /content/pages/wines.yaml
+objects: {}

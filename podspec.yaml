@@ -11,6 +11,8 @@ localization:
   locales:
   - en
   - ja
+  - vi
+  - ru
 
 static_dirs:
 - static_dir: /dist/
