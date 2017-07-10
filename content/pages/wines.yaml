@@ -2,9 +2,6 @@ $title: Wines
 $titles:
   nav@: Wines
 
-$localization:
-  path: /{locale}/{base}
-  
 partials:
 - partial: products
   class: products__wines

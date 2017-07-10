@@ -2,9 +2,6 @@ $title: About
 $titles:
   nav@: About
 
-$localization:
-  path: /{locale}/{base}
-
 partials:
 - partial: event
   class: event__content__about
