@@ -9,33 +9,33 @@ partials:
     - title@: Wine House
       details:
         - detail@: Andrew Peller Limited Reports Strong Organic Growth in Fiscal 2017!
-        - detail@: A bold blend of primarily Zinfandel, Syrah, Merlot and Cabernet Sauvignon, Apothic Red leaves a lasting impression of flavor and texture on the palate. Zinfandel offers bold dark fruit flavors and spicy notes, complemented by the soft mouthfeel of Merlot. The Syrah adds layers of smooth blueberry, while the Cabernet Sauvignon delivers ripe fruit flavors and a firm structure. This decadent blend is framed by hints of black cherry, vanilla, and mocha.
+        - detail@: A bold blend of primarily Zinfandel, Syrah, Merlot and Cabernet Sauvignon, Apothic Red leaves a lasting impression of flavor and texture on the palate. Zinfandel offers bold dark fruit flavors and spicy notes, complemented by the soft mouthfeel of Merlot.
       image: /source/images/abt.jpg
     - title@: Why us
       events:
-        - text@: Donec quam lscele lorem Ipsum.
+        - text@: Classification of wine.
           url: '#'
-        - text@: Etiam volutpatbh lorem Ipsum.
+        - text@: French wine regions.
           url: '#'
-        - text@: Varius lorem Ipsum available.
+        - text@: Buy Alsace wines.
           url: '#'
-        - text@: Donec Lorem Ipsum available.
+        - text@: Around My French Table .
           url: '#'
-        - text@: Etiam volutpatbh Lorem Ipsum.
+        - text@: Wine Tasting / Wine and Food.
           url: '#'
 
 - partial: components
   title@: Our ingredients
   list:
     - type@: "A."
-      heading@: Donec in velit vel ipsum
-      description@: Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla
+      heading@: Wine and Health
+      description@: "Drunk moderately, about a 100ml glass per meal (usually 2 to 4 glasses a day) wine is beneficial to health, reducing by nearly the risk of myocardium infarct and by nearly cerebral vascular thrombosis."
     - type@: "B."
-      heading@: Euismod consequat ante
-      description@: Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla
+      heading@: Wine Practical Information
+      description@: When Julia Child told Dorie Greenspan, “You write recipes just the way I do,” she paid her the ultimate compliment. Julia’s praise was echoed by the New York Times and the Los Angeles Times.
     - type@: "C."
-      heading@: Donec in velit vel ipsum
-      description@: Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla
+      heading@: Alsace Pinot Blanc
+      description@: Pinot Blanc (blanc stands for white while pinot is a wide variety of grape) also known as Klevner is a dry white wine from Alsace. Pinot Blanc is less aromatic than other white wines in Alsace.
     - type@: "D."
-      heading@: Euismod consequat ante
-      description@: Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla
+      heading@: Provide simple appetizers & glasses
+      description@: Our Hosts open their homes with welcoming smiles, making sure their friends and guests have a wonderful time while enjoying their Wine Tasting. WineShop At Home Hosts are gracious, joyful and always brilliant!

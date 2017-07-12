@@ -11,9 +11,7 @@ localization:
   locales:
   - en
   - ja
-  - vi
-  - ru
-
+  
 static_dirs:
 - static_dir: /dist/
   serve_at: "/assets/static/"

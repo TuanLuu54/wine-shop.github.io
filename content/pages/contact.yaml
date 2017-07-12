@@ -6,12 +6,12 @@ $titles:
 partials:
 - partial: contact
   class: contact__heading
-  title@: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque. Lorem ipsum dolor sit.
-  description@: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Contrary .
+  title@: The North American continent is home to several native species of grape, including Vitis labrusca, Vitis riparia.
+  description@: The first Europeans to explore North America, a Viking expedition from Greenland, called it Vinland because of the profusion of grape vines they found. The earliest wine made in what is now the United States was produced between 1562 and 1564 by French Huguenot settlers from Scuppernong grapes at a settlement near Jacksonville, Florida. In the early American colonies of Virginia and the Carolinas, wine making was an official goal laid out in the founding charters.
   contact@:
     - My company name,
     - "Tel: 1115550001"
-    - Lorem ipsum dolor,
+    - Boston, MA 02111,
     - Fax:190-4509-494
     - Jasmin Dr 40 Fe 72.
     - mail@example.com
