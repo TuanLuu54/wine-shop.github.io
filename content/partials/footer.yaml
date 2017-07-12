@@ -1,25 +1,25 @@
 columns:
 - heading@: Extras
   cta:
-    - text@: Ut rutrum neque a mollis laoreet
+    - text@: Sell Your Services on Amazon
       url: '#'
-    - text@: Nunc ut tortor ligula eu petiu
+    - text@: Sell on Amazon Business
       url: '#'
-    - text@: Pelleesque
+    - text@: Self-Publish with Us
       url: '#'
-    - text@: Ut rutrum neque a mollis
+    - text@: Advertise Your Products
       url: '#'
 - heading@: Useful Info
   cta:
-    - text@: Hendrerit quam
+    - text@: Oenological Education Institutes
       url: '#'
-    - text@: Amet consectetur
+    - text@: Wine Publications
       url: '#'
-    - text@: Iquam hendrerit
+    - text@: Wine Industry Directories
       url: '#'
-    - text@: Hendrerit quam
+    - text@: Importers / Exporters
       url: '#'
-    - text@: Amet consectetur
+    - text@: Wine Industry Government Organisations
       url: '#'
 - heading@: Social
   cta:
@@ -32,7 +32,7 @@ columns:
           url: 'https://linkedin.com/'
 - heading@: Contact Us
   cta:
-    - text@: Pelleesque conquat dignissim lacus quis altrcies.
+    - text@: Anchor Wine Yeast, P.O. Box 14, Eppingdust, 7475, South Africa.
     - text@: Tel.800-255-9999
     - text@: 'Fax: 1234 568'
-    - text: "Email: <a href='#'>example.com</a>"
+    - text: "Email: <a href='#'>wineshop@email.com</a>"

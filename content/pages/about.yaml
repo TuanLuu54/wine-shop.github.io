@@ -8,8 +8,8 @@ partials:
   columns:
     - title@: Wine House
       details:
-        - detail@: Praesent justo dolor lobortis quis lobortis!
-        - detail@: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio.
+        - detail@: Andrew Peller Limited Reports Strong Organic Growth in Fiscal 2017!
+        - detail@: A bold blend of primarily Zinfandel, Syrah, Merlot and Cabernet Sauvignon, Apothic Red leaves a lasting impression of flavor and texture on the palate. Zinfandel offers bold dark fruit flavors and spicy notes, complemented by the soft mouthfeel of Merlot. The Syrah adds layers of smooth blueberry, while the Cabernet Sauvignon delivers ripe fruit flavors and a firm structure. This decadent blend is framed by hints of black cherry, vanilla, and mocha.
       image: /source/images/abt.jpg
     - title@: Why us
       events:
