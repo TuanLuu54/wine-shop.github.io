@@ -1,0 +1,88 @@
+.event {
+  padding: 50px 0 60px;
+
+  .event__title {
+    color: #8e0000;
+    font-size: 32px;
+    padding-bottom: 20px;
+  }
+
+  .event__details {
+    color: gray;
+    line-height: 2em;
+    padding-bottom: 20px;
+  }
+
+  .event__description {
+    font-weight: bold;
+    font-size: 22px;
+    color: #000;
+  }
+
+  .event__list {
+    margin-bottom: 18px;
+  }
+
+  .event__list__item {
+    line-height: 2.6em;
+    color: gray;
+    text-transform: capitalize;
+    
+    .event__list__link {
+      color: gray;
+      position: relative;
+      padding-left: 32px;
+    }
+
+    .event__list__link:hover {
+      color: #000;
+      &:before {
+        left: 5%;
+      }
+    }
+
+    .event__list__link:before {
+      content: '';
+      background: url(../../static/images/icon6.png);
+      transition: 0.5s all ease;
+      display: inline-block;
+      width: 15px;
+      height: 13px;
+      top: 16%;
+      left: 0;
+      margin-right: 20px;
+      position: absolute;
+    }
+  }
+
+  .event__content__about {
+    display: flex;
+    flex-direction: row-reverse;
+    .event__details {
+      width: 80%;
+      margin-left: 40px;
+    }
+  }
+
+  .event__heading {
+    font-size: 48px;
+    color: #8e0000;
+    text-align: center;
+  }
+}
+.event__images {
+  max-width: 540px;
+  overflow: hidden;
+  position: relative;
+
+  .event__image {
+    width: 100%;
+    transition: 1s all ease;
+  }
+
+  &:hover {
+    .event__image {
+      transform: scale(1.1);
+    }
+  }
+}

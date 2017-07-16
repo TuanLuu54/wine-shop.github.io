@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="/assets/static/images/icon/wine.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, height=device-height">
+    <title>Wines Hotel and Restaurant</title>
+    <link href="https://fonts.googleapis.com/css?family=Ropa+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/static/css/main.min.css">
+    <script src="https://use.fontawesome.com/cd8fa85c5d.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="/assets/static/js/main.min.js"></script>
+  </head>
+<body>
+<div class="header">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4 header__logo">
+        <a href="/" class="header__heading">
+          <h1>Wines</h1>
+        </a>
+      </div>
+      <div class="col-sm-8 header__nav">
+        <ul class="header__nav__container">
+          <li class="header__nav__item">
+            <a href="/" class="header__nav__item--link header__nav__item--link-active">Home</a>
+          </li>
+          <li class="header__nav__item">
+            <a href="/about" class="header__nav__item--link ">About</a>
+          </li>
+          <li class="header__nav__item">
+            <a href="/wines" class="header__nav__item--link ">Wines</a>
+          </li>
+          <li class="header__nav__item">
+            <a href="/products" class="header__nav__item--link ">Our Products</a>
+          </li>
+          <li class="header__nav__item">
+            <a href="/contact" class="header__nav__item--link ">Contact</a>
+          </li>
+        </ul>
+        <select class="header__nav__translate form-control" onchange="window.location.href = this.value">
+          <option
+ selected            value="/">
+              English
+          <option
+            value="/ja/">
+              日本語
+          <option
+            value="/de/">
+              Deutsch
+          <option
+            value="/fr/">
+              français
+        </select>
+      </div>
+    </div>
+  </div>
+</div>  <div class="main">
+    <div class="main__contained">
+<div class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 hero__container">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+          </ol>
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            <div class="item active">
+              <img src="/assets/static/images/4444.png" alt="">
+              <div class="carousel-caption">
+                <h2 class="hero__title">Montes Purple Angel 2013</h2>
+                <p class="hero__description">Dark black cherry, brambly blackberry, vanilla and cocoa aromas. Soft, juicy black fruit flavors combine in the mouth with hints of leather and spice. Tannins are round and chewy with a rich.</p>
+              </div>
+            </div>
+            <div class="item ">
+              <img src="/assets/static/images/5555.png" alt="">
+              <div class="carousel-caption">
+                <h2 class="hero__title">La Marca Prosecco, 750 mL</h2>
+                <p class="hero__description">Flavor is fresh and clean, with ripe citrus, lemon, green apple, and touches of grapefruit, minerality, and some toast.</p>
+              </div>
+            </div>
+            <div class="item ">
+              <img src="/assets/static/images/4444.png" alt="">
+              <div class="carousel-caption">
+                <h2 class="hero__title">Chocolate Shop Red, 750 ml</h2>
+                <p class="hero__description">Inviting aromas of black cherry and dark chocolate entwine and continue on the palate surrounded by hints of cocoa powder. Nuances of red wine and residual sugar linger on the smooth finish.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><div class="feature">
+  <div class="container">
+    <div class="row">
+      <h3 class="feature__title">Welcome</h3>
+    </div>
+    <ul class="row feature__grids">
+      <li class="col-sm-4">
+        <div class="feature__grids__card astronaut-blue">
+          <div class="feature__grids__icon">
+            <i class="fa fa-glass" aria-hidden="true"></i>
+          </div>
+          <div class="feature__grids__title">famous wines</div>
+          <div class="feature__grids__description">Sweetening the tongues for centuries, chocolate and red wine has been the most reliable pairing in history.</div>
+        </div>
+      </li>
+      <li class="col-sm-4">
+        <div class="feature__grids__card tiber">
+          <div class="feature__grids__icon">
+            <i class="fa fa-users" aria-hidden="true"></i>
+          </div>
+          <div class="feature__grids__title">featured persons</div>
+          <div class="feature__grids__description">Overlooking Oregon’s verdant Chehalem Valley, Brick House is a 40-acre farm first planted to wine grapes in 1990.</div>
+        </div>
+      </li>
+      <li class="col-sm-4">
+        <div class="feature__grids__card jelly-bean">
+          <div class="feature__grids__icon">
+            <i class="fa fa-heartbeat" aria-hidden="true"></i>
+          </div>
+          <div class="feature__grids__title">persons liked</div>
+          <div class="feature__grids__description">Oregon-bred and French-trained, Joe Dobbes has been artistically crafting highly acclaimed Oregon wines for over 30 years.</div>
+        </div>
+      </li>
+    </div>
+  </div>
+</div><div class="review">
+  <div class="container">
+    <div class="row">
+      <h2 class="review__title">Client Reviews</h2>
+    </div>
+    <div class="row review__first">
+      <div class="col-sm-4 review__image first">
+        <img class="review__picture" src="/assets/static/images/phattruong.png" alt="">
+      </div>
+      <div class="col-sm-8 review__quote review__first__quote">
+        <p>A grip of oak tannin helps support the exuberant, juicy, dark blue fruit, further defined by its soft texture and underlying, focused acidity.</p>
+        <p class="review__quote__info">Phat Truong <br/> Developer at AgilityIO</p>
+      </div>
+    </div>
+    <div class="row review__second">
+      <div class="col-sm-4 review__image second">
+        <img class="review__picture" src="/assets/static/images/canhpham.jpg" alt="">
+      </div>
+      <div class="col-sm-8 review__quote review__second__quote">
+        <p>Its bright cassis, lavender, Tahitian vanilla and dried herb flavors are irresistible right out the gate. Ripe and rewarding, it's one to remember.</p>
+        <p class="review__quote__info">Canh Pham <br/> Developer at AgilityIO</p>
+      </div>
+    </div>
+  </div>
+</div><div class="products">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <figure class="products__item">
+          <img class="products__item__image" src="/assets/static/images/5.jpg" alt="">
+          <figcaption class="products__caption">
+            <h3>Wine</h3>
+            <p>Red Wine</p>
+            <a class="products__caption__link" href="#">info(at)wine.com</a>
+            <p>4 years</p>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="col-sm-4">
+        <figure class="products__item">
+          <img class="products__item__image" src="/assets/static/images/7.jpg" alt="">
+          <figcaption class="products__caption">
+            <h3>Wine</h3>
+            <p>Blue Wine</p>
+            <a class="products__caption__link" href="#">info(at)wine.com</a>
+            <p>4 years</p>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="col-sm-4">
+        <figure class="products__item">
+          <img class="products__item__image" src="/assets/static/images/6.jpg" alt="">
+          <figcaption class="products__caption">
+            <h3>Wine</h3>
+            <p>Green Wine</p>
+            <a class="products__caption__link" href="#">info(at)wine.com</a>
+            <p>4 years</p>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="col-sm-4">
+        <figure class="products__item">
+          <img class="products__item__image" src="/assets/static/images/11.jpg" alt="">
+          <figcaption class="products__caption">
+            <h3>Wine</h3>
+            <p>Red Wine</p>
+            <a class="products__caption__link" href="#">info(at)wine.com</a>
+            <p>4 years</p>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="col-sm-4">
+        <figure class="products__item">
+          <img class="products__item__image" src="/assets/static/images/8.jpg" alt="">
+          <figcaption class="products__caption">
+            <h3>Wine</h3>
+            <p>Red Wine</p>
+            <a class="products__caption__link" href="#">info(at)wine.com</a>
+            <p>4 years</p>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="col-sm-4">
+        <figure class="products__item">
+          <img class="products__item__image" src="/assets/static/images/12.jpg" alt="">
+          <figcaption class="products__caption">
+            <h3>Wine</h3>
+            <p>Red Wine</p>
+            <a class="products__caption__link" href="#">info(at)wine.com</a>
+            <p>4 years</p>
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+  </div>
+</div><div class="best-wines">
+  <div class="best-wines-background">
+    <img src="/assets/static/images/1.jpg" alt="">
+    <div class="container">
+      <div class="best-wines-more">
+        <h3 class="best-wines-more__title">The best features</h3>
+        <p class="best-wines-more__description">Juicy and seductively smooth, this blockbuster beauty from the revered vineyard site is big, bold and intense, with a grip of integrated French oak.</p>
+        <a href="#" class="best-wines-more__link">Read more</a>
+      </div>
+    </div>
+  </div>
+</div><div class="event">
+  <div class="container">
+    <div class="row event__content__title">
+        <div class="col-sm-6">
+          <h3 class="event__title">COCKTAILS & BARS</h3>
+          <div class="">
+            <div class="event__details">
+              <p class="event__description">What do rosé, Scotch, Guinness, Sherry and amaro have in common? They can all be added to your dessert.</p>
+              <p class="">On the outskirts of Chicago, this barbecue spot encourages visitors to spike their milkshakes. Try the Chocolate Peanut Butter Banana (chocolate ganache, banana, chocolate rim) with a shot of rum, or the Cookies n’ Cream.</p>
+            </div>
+            <div class="row event__images">
+              <img class="event__image" src="/assets/static/images/4.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <h3 class="event__title">OUR WINES</h3>
+          <div class="">
+            <ul class="event__list">
+              <li class="event__list__item">
+                <a class="event__list__link" href="#">Peller Estates Family Series.</a>
+              </li>
+              <li class="event__list__item">
+                <a class="event__list__link" href="#">Peller Estates French Cross.</a>
+              </li>
+              <li class="event__list__item">
+                <a class="event__list__link" href="#">Peller Estates Private Reserve.</a>
+              </li>
+              <li class="event__list__item">
+                <a class="event__list__link" href="#">Peller Estates Signature Series.</a>
+              </li>
+              <li class="event__list__item">
+                <a class="event__list__link" href="#">Wayne Gretzky Estates.</a>
+              </li>
+            </ul>
+            <div class="row event__images">
+              <img class="event__image" src="/assets/static/images/10.jpg" alt="">
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>    </div>
+  </div>
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <ul class="footer__container">
+          <li class="col-sm-3">
+            <h3 class="footer__heading">Extras</h3>
+            <ul class="footer__items">
+              <li class="footer__item">
+                <a href="#" class="footer__item-link">
+                  Sell Your Services on Amazon
+                </a>
+              </li>
+              <li class="footer__item">
+                <a href="#" class="footer__item-link">
+                  Sell on Amazon Business
+                </a>
+              </li>
+              <li class="footer__item">
+                <a href="#" class="footer__item-link">
+                  Self-Publish with Us
+                </a>
+              </li>
+              <li class="footer__item">
+                <a href="#" class="footer__item-link">
+                  Advertise Your Products
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <h3 class="footer__heading">Useful Info</h3>
+            <ul class="footer__items">
+              <li class="footer__item">
+                <a href="#" class="footer__item-link">
+                  Oenological Education Institutes
+                </a>
+              </li>
+              <li class="footer__item">
+                <a href="#" class="footer__item-link">
+                  Wine Publications
+                </a>
+              </li>
+              <li class="footer__item">
+                <a href="#" class="footer__item-link">
+                  Wine Industry Directories
+                </a>
+              </li>
+              <li class="footer__item">
+                <a href="#" class="footer__item-link">
+                  Importers / Exporters
+                </a>
+              </li>
+              <li class="footer__item">
+                <a href="#" class="footer__item-link">
+                  Wine Industry Government Organisations
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <h3 class="footer__heading">Social</h3>
+            <ul class="footer__items">
+              <li class="footer__item">
+                    <a href="https://facebook.com/" class="footer__item-social">
+                      <i class="fa fa-facebook" aria-hidden="true"></i>
+                    </a>
+                    <a href="https://twitter.com/" class="footer__item-social">
+                      <i class="fa fa-twitter" aria-hidden="true"></i>
+                    </a>
+                    <a href="https://linkedin.com/" class="footer__item-social">
+                      <i class="fa fa-linkedin" aria-hidden="true"></i>
+                    </a>
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <h3 class="footer__heading">Contact Us</h3>
+            <ul class="footer__items">
+              <li class="footer__item">
+                  Anchor Wine Yeast, P.O. Box 14, Eppingdust, 7475, South Africa.
+              </li>
+              <li class="footer__item">
+                  Tel.800-255-9999
+              </li>
+              <li class="footer__item">
+                  Fax: 1234 568
+              </li>
+              <li class="footer__item">
+                  Email: <a href='#'>wineshop@email.com</a>
+              </li>
+            </ul>
+          </li>
+      </ul>
+    </div>
+    <div class="row footer__copyright">
+      <div class="col-sm-12">
+        <p>© 2017 Wines. All Rights Reserved </p>
+      </div>
+    </div>
+  </div>
+</div></body>
+</html>

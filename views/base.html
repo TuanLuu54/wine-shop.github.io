@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    {% if podspec.meta.icon %}
+    <link rel="shortcut icon" href="{{ podspec.meta.icon }}">
+    {% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, height=device-height">
+    <title>Wines Hotel and Restaurant</title>
+    <link href="https://fonts.googleapis.com/css?family=Ropa+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="{{g.static('/dist/css/main.min.css').url.path}}">
+    <script src="https://use.fontawesome.com/cd8fa85c5d.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="{{g.static('/dist/js/main.min.js').url.path}}"></script>
+  </head>
+<body>
+  {% with partial = g.doc("/content/partials/header.yaml", locale=doc.locale) %}
+    {% include "/views/partials/header.html" %}
+  {% endwith %}
+  <div class="main">
+    <div class="main__contained">
+      {% block main %}
+        {% if doc.partials %}
+          {% for partial in doc.partials if partial.partial %}
+            {% include '/views/partials/' ~ partial.partial ~ '.html' with context %}
+          {% endfor %}
+        {% else %}
+          {{ doc.html|safe }}
+        {% endif %}
+      {% endblock %}
+    </div>
+  </div>
+  {% with partial = g.doc("/content/partials/footer.yaml", locale=doc.locale) %}
+    {% include "/views/partials/footer.html" %}
+  {% endwith %}
+</body>
+</html>

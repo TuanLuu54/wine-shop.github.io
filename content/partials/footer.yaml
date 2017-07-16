@@ -1,0 +1,38 @@
+columns:
+- heading@: Extras
+  cta:
+    - text@: Sell Your Services on Amazon
+      url: '#'
+    - text@: Sell on Amazon Business
+      url: '#'
+    - text@: Self-Publish with Us
+      url: '#'
+    - text@: Advertise Your Products
+      url: '#'
+- heading@: Useful Info
+  cta:
+    - text@: Oenological Education Institutes
+      url: '#'
+    - text@: Wine Publications
+      url: '#'
+    - text@: Wine Industry Directories
+      url: '#'
+    - text@: Importers / Exporters
+      url: '#'
+    - text@: Wine Industry Government Organisations
+      url: '#'
+- heading@: Social
+  cta:
+    - socials:
+        - icon: fa fa-facebook
+          url: 'https://facebook.com/'
+        - icon: fa fa-twitter
+          url: 'https://twitter.com/'
+        - icon: fa fa-linkedin
+          url: 'https://linkedin.com/'
+- heading@: Contact Us
+  cta:
+    - text@: Anchor Wine Yeast, P.O. Box 14, Eppingdust, 7475, South Africa.
+    - text@: Tel.800-255-9999
+    - text@: 'Fax: 1234 568'
+    - text: "Email: <a href='#'>wineshop@email.com</a>"

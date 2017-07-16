@@ -1,0 +1,32 @@
+.components {
+  padding: 30px 0;
+
+  .components__title {
+    font-size: 32px;
+    color: #8e0000;
+    padding-bottom: 20px;
+  }
+
+  .components__item {
+    display: flex;
+    margin-bottom: 20px;
+  }
+
+  .components__type {
+    padding: 0;
+    margin: 0 20px 0 0;
+    font-size: 48px;
+    color: #8e0000;
+    font-family: Roboto sans-serif;
+  }
+
+  .components__body {
+    color: gray;
+    line-height: 1.8em;
+    font-size: 20px;
+  }
+  .components__heading {
+    color: #000;
+    font-size: 26px;
+  }
+}

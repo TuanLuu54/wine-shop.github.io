@@ -1,0 +1,27 @@
+$title: Products
+$titles:
+  nav@: Our Products
+
+partials:
+- partial: cards
+  class: cards__title
+  cards:
+    - image: /source/images/8.jpg
+      title@: La Marca Prosecco, 750 mL
+      description@: Flavor is fresh and clean, with ripe citrus, lemon, green apple, and touches of grapefruit, minerality, and some toast.
+    - image: /source/images/12.jpg
+      title@: "The King's Mead 750 mL"
+      description@: Known in Greek Mythology as "necter of the gods," mead became the exclusive drink of royalty. Our King's Mead wine.
+    - image: /source/images/11.jpg
+      title@: Francis Ford Coppola Winery Red
+      description@: 1¢ Standard Shipping on qualifying orders when you buy 3 or more bottles from this seller and ship them to the same address.
+    - image: /source/images/5.jpg
+      title@: 2015 Carnivor California
+      description@: Carnivor Cabernet is big and bold that opens with a deep, dark inky color and aromas of dark cherry and toasted oak.
+    - image: /source/images/7.jpg
+      title@: 2015 Ménage à Trois Pinot
+      description@: "Ménage à Trois Pinot Noir is a full-bodied beauty, with soft smooth tannins, made with grapes from a trio of premier California appellations: Central Coast, Clarksburg, and North Coast."
+    - image: /source/images/6.jpg
+      title@: Barefoot Bubbly California Pink
+      description@: Barefoot Bubbly Pink Moscato is sweet & juicy with explosive aromas and flavors. Best served chilled (36-40 degrees F), this bubbly has aromas and flavors of jasmine and Mandarin orange complemented by red raspberry, strawberry and pomegranate.
+      

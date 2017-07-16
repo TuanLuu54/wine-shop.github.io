@@ -1,0 +1,41 @@
+$title: About
+$titles:
+  nav@: About
+
+partials:
+- partial: event
+  class: event__content__about
+  columns:
+    - title@: Wine House
+      details:
+        - detail@: Andrew Peller Limited Reports Strong Organic Growth in Fiscal 2017!
+        - detail@: A bold blend of primarily Zinfandel, Syrah, Merlot and Cabernet Sauvignon, Apothic Red leaves a lasting impression of flavor and texture on the palate. Zinfandel offers bold dark fruit flavors and spicy notes, complemented by the soft mouthfeel of Merlot.
+      image: /source/images/abt.jpg
+    - title@: Why us
+      events:
+        - text@: Classification of wine.
+          url: '#'
+        - text@: French wine regions.
+          url: '#'
+        - text@: Buy Alsace wines.
+          url: '#'
+        - text@: Around My French Table .
+          url: '#'
+        - text@: Wine Tasting / Wine and Food.
+          url: '#'
+
+- partial: components
+  title@: Our ingredients
+  list:
+    - type@: "A."
+      heading@: Wine and Health
+      description@: "Drunk moderately, about a 100ml glass per meal (usually 2 to 4 glasses a day) wine is beneficial to health, reducing by nearly the risk of myocardium infarct and by nearly cerebral vascular thrombosis."
+    - type@: "B."
+      heading@: Wine Practical Information
+      description@: When Julia Child told Dorie Greenspan, “You write recipes just the way I do,” she paid her the ultimate compliment. Julia’s praise was echoed by the New York Times and the Los Angeles Times.
+    - type@: "C."
+      heading@: Alsace Pinot Blanc
+      description@: Pinot Blanc (blanc stands for white while pinot is a wide variety of grape) also known as Klevner is a dry white wine from Alsace. Pinot Blanc is less aromatic than other white wines in Alsace.
+    - type@: "D."
+      heading@: Provide simple appetizers & glasses
+      description@: Our Hosts open their homes with welcoming smiles, making sure their friends and guests have a wonderful time while enjoying their Wine Tasting. WineShop At Home Hosts are gracious, joyful and always brilliant!

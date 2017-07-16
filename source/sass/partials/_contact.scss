@@ -1,0 +1,52 @@
+.contact {
+  padding: 50px 0 30px;
+
+  .form-group {
+    margin-bottom: 20px;
+
+    label {
+      font-weight: normal;
+      font-size: 22px;
+    }
+  }
+
+  .btn-primary {
+    padding: 10px 45px;
+    background-color: #000;
+    text-transform: uppercase;
+    border-radius: 0;
+    font-size: 22px;
+  }
+
+  .contact__contact {
+    margin-bottom: 50px;
+  }
+
+  .contact__information {
+    color: gray;
+    font-size: 18px;
+    line-height: 2.3em;
+
+    .contact__information__title {
+      color: #000;
+      letter-spacing: 0.4px;
+      text-transform: uppercase;
+      font-size: 19px;
+      line-height: 1.425em;
+    }
+
+    .contact__company {
+      margin-top: 40px;
+    }
+
+    .contact__info {
+      margin-right: 20px;
+    }
+  }
+}
+.contact__heading {
+  font-size: 48px;
+  color: #8e0000;
+  text-align: center;
+  margin-bottom: 50px;
+}

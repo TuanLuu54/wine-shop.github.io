@@ -1,0 +1,522 @@
+#: /content/pages/products.yaml
+msgid ""
+"1¢ Standard Shipping on qualifying orders when you buy 3 or more bottles from"
+" this seller and ship them to the same address."
+msgstr ""
+"3本以上のボトルを購入すると、対象となる注文の標準出荷 "
+"この売り手と同"
+
+#: /content/pages/products.yaml
+msgid "2015 Carnivor California"
+msgstr "2015年カリフォルニア州カーニバル"
+
+#: /content/pages/products.yaml
+msgid "2015 Ménage à Trois Pinot"
+msgstr "2015年のMénageàTrois Pinot"
+
+#: /content/pages/index.yaml /content/pages/wines.yaml
+msgid "4 years"
+msgstr "4年"
+
+#: /content/pages/about.yaml
+msgid ""
+"A bold blend of primarily Zinfandel, Syrah, Merlot and Cabernet Sauvignon, "
+"Apothic Red leaves a lasting impression of flavor and texture on the palate. "
+"Zinfandel offers bold dark fruit flavors and spicy notes, complemented by the"
+" soft mouthfeel of Merlot."
+msgstr ""
+"主にジンファンデル、シラー、メルロ、カベルネ・ソーヴィニヨンの大胆なブレンド、"
+"アポシックレッドは、口蓋に味と風合いの永続的な印象を残します。"
+"ジンファンデルは大胆なダークフルーツフレーバーとスパイシーなノートを提供しています。"
+" メルローの柔らかい口あたり。"
+
+#: /content/pages/index.yaml
+msgid ""
+"A grip of oak tannin helps support the exuberant, juicy, dark blue fruit, "
+"further defined by its soft texture and underlying, focused acidity."
+msgstr ""
+"オークのタンニンのグリップは、熟したジューシーなダークブルーの果物をサポートし、"
+"さらに、その柔らかい質感および根底にあり、集中した酸性度によって定義される。"
+
+#: /content/pages/about.yaml
+msgid "A."
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "About"
+msgstr "約"
+
+#: /content/partials/footer.yaml
+msgid "Advertise Your Products"
+msgstr "あなたの商品を宣伝する"
+
+#: /content/pages/about.yaml
+msgid "Alsace Pinot Blanc"
+msgstr "アルザス・ピノ・ブラン"
+
+#: /content/partials/footer.yaml
+msgid "Anchor Wine Yeast, P.O. Box 14, Eppingdust, 7475, South Africa."
+msgstr "アンカーワイン酵母、P.O. Box 14、Eppingdust、7475、南アフリカ。"
+
+#: /content/pages/about.yaml
+msgid "Andrew Peller Limited Reports Strong Organic Growth in Fiscal 2017!"
+msgstr "アンドリュー・ペラー・リミテッドは、2017年度の強い有機的成長を報告しています！"
+
+#: /content/pages/about.yaml
+msgid "Around My French Table ."
+msgstr "私のフランス語表の周り。"
+
+#: /content/pages/about.yaml
+msgid "B."
+msgstr ""
+
+#: /content/pages/products.yaml
+msgid "Barefoot Bubbly California Pink"
+msgstr "ベアフットバブリーカリフォルニアピンク"
+
+#: /content/pages/products.yaml
+msgid ""
+"Barefoot Bubbly Pink Moscato is sweet & juicy with explosive aromas and "
+"flavors. Best served chilled (36-40 degrees F), this bubbly has aromas and "
+"flavors of jasmine and Mandarin orange complemented by red raspberry, "
+"strawberry and pomegranate."
+msgstr ""
+"Barefoot Bubbly Pink Moscatoは甘くてジューシーで爆発的な香りがあります。"
+"フレーバー。 最高の冷蔵（36-40度F）で提供され、この泡立て器にはアロマが付いています。"
+"ジャスミンとマンダリンオレンジの香り、赤いラズベリー、"
+"イチゴとザクロ。"
+
+#: /content/pages/index.yaml /content/pages/wines.yaml
+msgid "Blue Wine"
+msgstr "ブルーワイン"
+
+#: /content/pages/contact.yaml
+msgid "Boston, MA 02111,"
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "Buy Alsace wines."
+msgstr "アルザスのワインを買う。"
+
+#: /content/pages/about.yaml
+msgid "C."
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "COCKTAILS & BARS"
+msgstr "カクテル＆バー"
+
+#: /content/pages/index.yaml
+msgid "Canh Pham <br/> Developer at AgilityIO"
+msgstr "Canh Pham <br/> AgilityIOの開発者"
+
+#: /content/pages/products.yaml
+msgid ""
+"Carnivor Cabernet is big and bold that opens with a deep, dark inky color and"
+" aromas of dark cherry and toasted oak."
+msgstr ""
+"カーニヴァー・カベルネは大きくて太く、深く暗い色の色合いで開き、"
+" ダークチェリーの香りとトーストオーブン。"
+
+#: /content/pages/index.yaml
+msgid "Chocolate Shop Red, 750 ml"
+msgstr "チョコレートショップレッド、750 ml"
+
+#: /content/pages/about.yaml
+msgid "Classification of wine."
+msgstr "ワインの分類。"
+
+#: /content/pages/index.yaml
+msgid "Client Reviews"
+msgstr "クライアントのレビュー"
+
+#: /content/pages/contact.yaml
+msgid "Contact"
+msgstr "接触"
+
+#: /content/partials/footer.yaml
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: /content/pages/about.yaml
+msgid "D."
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid ""
+"Dark black cherry, brambly blackberry, vanilla and cocoa aromas. Soft, juicy "
+"black fruit flavors combine in the mouth with hints of leather and spice. "
+"Tannins are round and chewy with a rich."
+msgstr ""
+"ダークブラックチェリー、ブラックベリー、バニラ、カカオの香り。 柔らかく、ジューシーな"
+"黒い果実の味は、皮と香辛料のヒントと口に結合します。"
+"タンニンは丸く、噛んで豊かです。"
+
+#: /content/pages/about.yaml
+msgid ""
+"Drunk moderately, about a 100ml glass per meal (usually 2 to 4 glasses a day)"
+" wine is beneficial to health, reducing by nearly the risk of myocardium "
+"infarct and by nearly cerebral vascular thrombosis."
+msgstr ""
+"中程度の飲酒、食事1回あたり約100mlのガラス（通常は1日2〜4杯）"
+"ワインは健康に有益であり、心筋のリスクがほとんどなくなる"
+" 梗塞およびほぼ大脳血管血栓症が含まれる。"
+
+#: /content/partials/footer.yaml
+msgid "Extras"
+msgstr "エクストラ"
+
+#: /content/partials/footer.yaml
+msgid "Fax: 1234 568"
+msgstr ""
+
+#: /content/pages/contact.yaml
+msgid "Fax:190-4509-494"
+msgstr ""
+
+#: /content/pages/index.yaml /content/pages/products.yaml
+msgid ""
+"Flavor is fresh and clean, with ripe citrus, lemon, green apple, and touches "
+"of grapefruit, minerality, and some toast."
+msgstr ""
+"熟した柑橘類、レモン、グリーンアップル、そしてタッチ"
+" グレープフルーツ、ミネラ"
+
+#: /content/pages/products.yaml
+msgid "Francis Ford Coppola Winery Red"
+msgstr "フランシスフォードコッポラワイナリーレッド"
+
+#: /content/pages/about.yaml
+msgid "French wine regions."
+msgstr "フランスワイン地域。"
+
+#: /content/pages/index.yaml /content/pages/wines.yaml
+msgid "Green Wine"
+msgstr "グリーンワイン"
+
+#: /content/pages/index.yaml
+msgid "Home"
+msgstr "ホーム"
+
+#: /content/partials/footer.yaml
+msgid "Importers / Exporters"
+msgstr "輸入業者/輸出業者"
+
+#: /content/pages/index.yaml
+msgid ""
+"Inviting aromas of black cherry and dark chocolate entwine and continue on "
+"the palate surrounded by hints of cocoa powder. Nuances of red wine and "
+"residual sugar linger on the smooth finish."
+msgstr ""
+"ブラックチェリーとダークチョコレートの香りを誘い込み続けます "
+"口蓋はココアパウダーのヒントで囲まれています。 赤ワインとニュアンスの "
+"残った砂糖は滑らかな仕上がりで残っています。"
+
+#: /content/pages/index.yaml
+msgid ""
+"Its bright cassis, lavender, Tahitian vanilla and dried herb flavors are "
+"irresistible right out the gate. Ripe and rewarding, it's one to remember."
+msgstr ""
+"その明るいカシス、ラベンダー、タヒチアンのバニラと乾燥ハーブフレーバーは "
+"ゲートからすぐに魅力的ではありません。 熟していると報われる、それは覚えておくべきことです。"
+
+#: /content/pages/contact.yaml
+msgid "Jasmin Dr 40 Fe 72."
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid ""
+"Juicy and seductively smooth, this blockbuster beauty from the revered "
+"vineyard site is big, bold and intense, with a grip of integrated French oak."
+msgstr ""
+"ジューシーで魅惑的に滑らかな、この壮大な美しさは崇敬されています"
+"ぶどう畑は大胆で大胆で、フレンチオークが一体化しています。"
+
+#: /content/pages/products.yaml
+msgid ""
+"Known in Greek Mythology as \"necter of the gods,\" mead became the exclusive"
+" drink of royalty. Our King's Mead wine."
+msgstr ""
+"ギリシャ神話では "神々の蜜蜂"として知られていますが、ミードは排他的になりました"
+
+#: /content/pages/index.yaml /content/pages/products.yaml
+msgid "La Marca Prosecco, 750 mL"
+msgstr "La Marca Prosecco、750 mL"
+
+#: /content/pages/index.yaml
+msgid "Montes Purple Angel 2013"
+msgstr "モンテスパープルエンジェル2013"
+
+#: /content/pages/contact.yaml
+msgid "My company name,"
+msgstr "私の会社名、"
+
+#: /content/pages/products.yaml
+msgid ""
+"Ménage à Trois Pinot Noir is a full-bodied beauty, with soft smooth tannins, "
+"made with grapes from a trio of premier California appellations: Central "
+"Coast, Clarksburg, and North Coast."
+msgstr ""
+"MénageàTroisピノ・ノワールは柔らかい滑らかなタンニン、"
+"最高級のカリフォルニアのアトリエのトリオからぶどうで作られた：Central "
+"沿岸、クラークスバーグ、ノースコースト。"
+
+#: /content/pages/index.yaml
+msgid "OUR WINES"
+msgstr "私たちのワイン"
+
+#: /content/partials/footer.yaml
+msgid "Oenological Education Institutes"
+msgstr "Oenological教育機関"
+
+#: /content/pages/index.yaml
+msgid ""
+"On the outskirts of Chicago, this barbecue spot encourages visitors to spike "
+"their milkshakes. Try the Chocolate Peanut Butter Banana (chocolate ganache, "
+"banana, chocolate rim) with a shot of rum, or the Cookies n’ Cream."
+msgstr ""
+"シカゴの郊外にあるこのバーベキュースポットは、訪問者のスパイクを促します "
+"彼らのミルクシェイク。 チョコレートピーナッツバターバナナ（チョコレートガナッシュ、 "
+
+#: /content/pages/index.yaml
+msgid ""
+"Oregon-bred and French-trained, Joe Dobbes has been artistically crafting "
+"highly acclaimed Oregon wines for over 30 years."
+msgstr ""
+"オレゴン出身でフランス人の訓練を受けたジョー・ドブスは、 "
+"オレゴン州の高い評価を受けているワインは30年以上にわたり絶賛されています。"
+
+#: /content/pages/about.yaml
+msgid ""
+"Our Hosts open their homes with welcoming smiles, making sure their friends "
+"and guests have a wonderful time while enjoying their Wine Tasting. WineShop "
+"At Home Hosts are gracious, joyful and always brilliant!"
+msgstr ""
+"私たちのホストは歓迎笑顔で家を開き、友達を確認します "
+"ワインテイスティングを楽しんでいる間、素敵な時間を過ごすことができます。 ワインショップ "
+"ホームでホストは優雅で、楽しく、いつも華麗です！"
+
+#: /content/pages/products.yaml
+msgid "Our Products"
+msgstr "当社の製品"
+
+#: /content/pages/about.yaml
+msgid "Our ingredients"
+msgstr "私たちの食材"
+
+#: /content/pages/index.yaml
+msgid ""
+"Overlooking Oregon’s verdant Chehalem Valley, Brick House is a 40-acre farm "
+"first planted to wine grapes in 1990."
+msgstr ""
+"ブリックハウスは、オレゴン州の緑豊かなチェハレム渓谷を一望する40エーカーの農場です "
+"最初に1990年にワインブドウに植え付けられました。"
+
+#: /content/pages/index.yaml
+msgid "Peller Estates Family Series."
+msgstr "Peller Estatesファミリーシリーズ。"
+
+#: /content/pages/index.yaml
+msgid "Peller Estates French Cross."
+msgstr "Pellerはフランスの十字路を営む。"
+
+#: /content/pages/index.yaml
+msgid "Peller Estates Private Reserve."
+msgstr "ペラーエステートプライベートリザーブ。"
+
+#: /content/pages/index.yaml
+msgid "Peller Estates Signature Series."
+msgstr "Peller Estates Signatureシリーズ。"
+
+#: /content/pages/index.yaml
+msgid "Phat Truong <br/> Developer at AgilityIO"
+msgstr "Phat Truong <br/> AgilityIOの開発者"
+
+#: /content/pages/about.yaml
+msgid ""
+"Pinot Blanc (blanc stands for white while pinot is a wide variety of grape) "
+"also known as Klevner is a dry white wine from Alsace. Pinot Blanc is less "
+"aromatic than other white wines in Alsace."
+msgstr ""
+"ピノ・ブラン（ピノは多種多様なブドウですが白は白を意味します）"
+"Klevnerとも呼ばれるアルザスの乾燥白ワインです。 ピノ・ブラン "
+"アルザスの他の白ワインよりも芳香が強い。"
+
+#: /content/pages/about.yaml
+msgid "Provide simple appetizers & glasses"
+msgstr "簡単な前菜と眼鏡を提供する"
+
+#: /content/pages/index.yaml
+msgid "Read more"
+msgstr ""
+
+#: /content/pages/index.yaml /content/pages/wines.yaml
+msgid "Red Wine"
+msgstr "赤ワイン"
+
+#: /content/partials/footer.yaml
+msgid "Self-Publish with Us"
+msgstr "私たちと自己出版"
+
+#: /content/partials/footer.yaml
+msgid "Sell Your Services on Amazon"
+msgstr "Amazonであなたのサービスを売る"
+
+#: /content/partials/footer.yaml
+msgid "Sell on Amazon Business"
+msgstr "Amazonビジネスで売る"
+
+#: /content/partials/footer.yaml
+msgid "Social"
+msgstr "ソーシャル"
+
+#: /content/pages/index.yaml
+msgid ""
+"Sweetening the tongues for centuries, chocolate and red wine has been the "
+"most reliable pairing in history."
+msgstr ""
+"何世紀にもわたって舌を甘くすること、チョコレートと赤ワインは "
+"歴史の中で最も信頼できるペアリング。"
+"歴史の中で最も信頼"
+
+
+#: /content/partials/footer.yaml
+msgid "Tel.800-255-9999"
+msgstr ""
+
+#: /content/pages/contact.yaml
+msgid "Tel: 1115550001"
+msgstr ""
+
+#: /content/pages/products.yaml
+msgid "The King's Mead 750 mL"
+msgstr "王のミード750ミリリットル"
+
+#: /content/pages/contact.yaml
+msgid ""
+"The North American continent is home to several native species of grape, "
+"including Vitis labrusca, Vitis riparia."
+msgstr ""
+"北米大陸にはいくつかのネイティブ種のブドウがあり、 "
+"Vitis labrusca、Vitis ripariaを含む。"
+
+#: /content/pages/index.yaml
+msgid "The best features"
+msgstr "最高の機能"
+
+#: /content/pages/contact.yaml
+msgid ""
+"The first Europeans to explore North America, a Viking expedition from "
+"Greenland, called it Vinland because of the profusion of grape vines they "
+"found. The earliest wine made in what is now the United States was produced "
+"between 1562 and 1564 by French Huguenot settlers from Scuppernong grapes at "
+"a settlement near Jacksonville, Florida. In the early American colonies of "
+"Virginia and the Carolinas, wine making was an official goal laid out in the "
+"founding charters."
+msgstr ""
+"北アメリカを探検する最初のヨーロッパ人、バイキングの探検隊 "
+"グリーンランド、彼らはブドウのブドウの豊富さのためにそれをヴィンランドと呼んだ "
+"見つかりました。 現在ではアメリカで製造された最も初期のワインが生産された "
+"Scuppernongブドウのフランス人ユグノノ島の植民地で1562〜1564年 "
+"フロリダ州ジャクソンビル近くの和解。 アメリカの植民地初期の "
+"バージニア州とキャロライナ州では、ワイン製造は "
+"チャーターの創設。"
+
+#: /content/partials/footer.yaml
+msgid "Useful Info"
+msgstr "役に立つ情報"
+
+#: /content/pages/contact.yaml
+msgid "View on map"
+msgstr "地図上で見る"
+
+#: /content/pages/index.yaml
+msgid "Wayne Gretzky Estates."
+msgstr "ウェイングレツキーエステート。"
+
+#: /content/pages/index.yaml
+msgid "Welcome"
+msgstr "ようこそ"
+
+#: /content/pages/index.yaml
+msgid ""
+"What do rosé, Scotch, Guinness, Sherry and amaro have in common? They can all"
+" be added to your dessert."
+msgstr ""
+"ロゼ、スコッチ、ギネス、シェリー、アマロの共通点は何ですか？ 彼らはすべて"
+
+
+#: /content/pages/about.yaml
+msgid ""
+"When Julia Child told Dorie Greenspan, “You write recipes just the way I do,”"
+" she paid her the ultimate compliment. Julia’s praise was echoed by the New "
+"York Times and the Los Angeles Times."
+msgstr ""
+"Julia ChildがDorie Greenspanに語ったとき、「あなたは私のやり方と同じようにレシピを書いています」"
+" 彼女は彼女に究極の褒め言葉を払った。 ジュリアの賛美は、新しい"
+" ヨークタイムズとロサンゼルスタイムス。"
+
+#: /content/pages/about.yaml
+msgid "Why us"
+msgstr "なんで私達なの"
+
+#: /content/pages/index.yaml /content/pages/wines.yaml
+msgid "Wine"
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "Wine House"
+msgstr "ワインハウス"
+
+#: /content/partials/footer.yaml
+msgid "Wine Industry Directories"
+msgstr "ワイン産業ディレクトリ"
+
+#: /content/partials/footer.yaml
+msgid "Wine Industry Government Organisations"
+msgstr "ワイン産業の政府機関"
+
+#: /content/pages/about.yaml
+msgid "Wine Practical Information"
+msgstr "ワインの実用的な情報"
+
+#: /content/partials/footer.yaml
+msgid "Wine Publications"
+msgstr "ワイン出版物"
+
+#: /content/pages/about.yaml
+msgid "Wine Tasting / Wine and Food."
+msgstr "ワインテイスティング/ワインと食品。"
+
+#: /content/pages/about.yaml
+msgid "Wine and Health"
+msgstr "ワインと健康"
+
+#: /content/pages/wines.yaml
+msgid "Wines"
+msgstr "ワイン"
+
+#: /podspec.yaml
+msgid "Wines a Hotel and Restaurants"
+msgstr "ホテルとレストランのワイン"
+
+#: /content/pages/index.yaml
+msgid "famous wines"
+msgstr "有名なワイン"
+
+#: /content/pages/index.yaml
+msgid "featured persons"
+msgstr "注目人物"
+
+#: /content/pages/contact.yaml
+msgid "mail@example.com"
+msgstr ""
+
+#: /content/pages/index.yaml
+msgid "persons liked"
+msgstr "人が好き"
+
+#: /content/pages/index.yaml
+msgid "phattruong"
+msgstr ""
+

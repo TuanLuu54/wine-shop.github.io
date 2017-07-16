@@ -1,0 +1,24 @@
+<div class="products">
+  <div class="container">
+    {% if partial.class %}
+    <div class="row">
+      <h2 class="products__title">{{_(doc.titles('nav'))}}</h2>
+    </div>
+    {% endif %}
+    <div class="row">
+      {% for item in partial.products %}
+      <div class="col-sm-4">
+        <figure class="products__item">
+          <img class="products__item__image" src="{{g.static(item.background).url.path}}" alt="">
+          <figcaption class="products__caption">
+            <h3>{{_(item.title)}}</h3>
+            <p>{{_(item.subtitle)}}</p>
+            <a class="products__caption__link" href="{{item.cta.url}}">{{item.cta.text}}</a>
+            <p>{{_(item.year)}}</p>
+          </figcaption>
+        </figure>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

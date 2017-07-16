@@ -1,0 +1,50 @@
+$title: Wines
+$titles:
+  nav@: Wines
+
+partials:
+- partial: products
+  class: products__wines
+  products:
+    - background: /source/images/5.jpg
+      title@: Wine
+      subtitle@: Red Wine
+      cta:
+        text: info(at)wine.com
+        url: '#'
+      year@: 4 years
+    - background: /source/images/7.jpg
+      title@: Wine
+      subtitle@: Blue Wine
+      cta:
+        text: info(at)wine.com
+        url: '#'
+      year@: 4 years
+    - background: /source/images/6.jpg
+      title@: Wine
+      subtitle@: Green Wine
+      cta:
+        text: info(at)wine.com
+        url: '#'
+      year@: 4 years
+    - background: /source/images/11.jpg
+      title@: Wine
+      subtitle@: Red Wine
+      cta:
+        text: info(at)wine.com
+        url: '#'
+      year@: 4 years
+    - background: /source/images/8.jpg
+      title@: Wine
+      subtitle@: Red Wine
+      cta:
+        text: info(at)wine.com
+        url: '#'
+      year@: 4 years
+    - background: /source/images/12.jpg
+      title@: Wine
+      subtitle@: Red Wine
+      cta:
+        text: info(at)wine.com
+        url: '#'
+      year@: 4 years
